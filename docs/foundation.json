@@ -1,0 +1,2567 @@
+{
+  "schema_version": "1.0",
+  "workspace": "foundation",
+  "title": "Foundation: Costa Rica Wellness Hospitality",
+  "project_name": "Bhava",
+  "generated": "2026-04-30",
+  "version": "1.0.0",
+  "workspace_nav": {
+    "prev": null,
+    "home_label": "Bhava",
+    "next": {
+      "id": "problem",
+      "label": "Problem",
+      "exists": false
+    }
+  },
+  "nav_links": [
+    {
+      "label": "The Story",
+      "href": "#story"
+    },
+    {
+      "label": "Structural Forces",
+      "href": "#forces"
+    },
+    {
+      "label": "Root Causes",
+      "href": "#root-causes"
+    },
+    {
+      "label": "Causal Structure",
+      "href": "#causal-structure"
+    },
+    {
+      "label": "Feedback Dynamics",
+      "href": "#dynamics"
+    },
+    {
+      "label": "Boundary Conditions",
+      "href": "#boundaries"
+    },
+    {
+      "label": "What's Changing",
+      "href": "#changing"
+    },
+    {
+      "label": "Expert Views",
+      "href": "#experts"
+    },
+    {
+      "label": "Gate Review",
+      "href": "#gate"
+    },
+    {
+      "label": "Sources",
+      "href": "#sources"
+    }
+  ],
+  "hero": {
+    "title_line1": "Bhava",
+    "title_line2": "Foundation: Costa Rica Wellness Hospitality",
+    "lead": "Costa Rica's boutique wellness hospitality industry has clear structural friction — and clear structural defenders. This Foundation analysis maps the forces, root causes, and boundary conditions that shape what's possible at the 5–12 villa scale.",
+    "funnel": [
+      {
+        "label": "Foundation",
+        "highlight": true
+      },
+      {
+        "label": "Problem",
+        "highlight": false
+      },
+      {
+        "label": "Jobs",
+        "highlight": false
+      },
+      {
+        "label": "Market",
+        "highlight": false
+      },
+      {
+        "label": "Solution",
+        "highlight": false
+      },
+      {
+        "label": "Business",
+        "highlight": false
+      }
+    ],
+    "stats": [
+      {
+        "value": "10",
+        "label": "Structural Forces",
+        "color": "accent"
+      },
+      {
+        "value": "5",
+        "label": "Root Causes",
+        "color": "accent"
+      },
+      {
+        "value": "464",
+        "label": "Citations",
+        "color": "accent"
+      }
+    ]
+  },
+  "narrative": {
+    "chapters": [
+      {
+        "label": "The Industry",
+        "headline": "A mature wellness hospitality market with three structural domains",
+        "body": [
+          "Costa Rica's boutique wellness hospitality sits at the intersection of foreign-direct-investment-driven coastal development, hospitality operations under cantonal-municipal regulatory architecture, and global eco-luxury demand mediated through OTA platforms and incumbent brand consortia.",
+          "The Pacific corridor — Nosara, Santa Teresa, Manuel Antonio, Dominical, Uvita, Tamarindo — has matured into the country's most established wellness segment. National hotel performance has stabilized at approximately mid-60% occupancy through 2024, with growth concentrated in resort and higher-end Guanacaste segments. ICT has explicitly adopted a 'quality over quantity' growth philosophy with a deliberate 2–3% annual ceiling.",
+          "Five-to-twelve villa boutique resorts occupy a specific structural position: above the single-villa STR base on Airbnb-style platforms, below the hotel-scale and branded-resort tier, and fragmented across hundreds of independent operators with relatively few small chains and a small share of branded-boutique-group keys."
+        ]
+      },
+      {
+        "label": "The Structural Forces",
+        "headline": "Ten forces shape this industry — four regulatory, four commercial, two economic",
+        "body": [
+          "On the regulatory side: cantonal fragmentation produces real timeline variance and a structural local-expertise premium; SETENA environmental viability and AyA water availability are hard preconditions, not soft gates; the Zona Marítimo Terrestre is constitutional public domain with no fee-simple ownership; Costa Rican labor and social-charge structure adds approximately 35% to nominal wages and constrains foreign expat staffing under the 90/10 rule.",
+          "On the commercial side: OTA distribution power and rate-parity dynamics structurally compress margin for new entrants; real-estate information asymmetry is maintained by absence of a centralized MLS; mature wellness markets are showing supply growth and ADR softening; three structural moat patterns held by incumbents — location, network embedding, and brand-consortia ties — make commoditization the default outcome for non-moated entrants.",
+          "On the economic side: capital scarcity at the 5–12 villa scale forces equity-heavy stacks of 50–80% sponsor capital because institutional debt and global hospitality lenders target larger tickets; climate, seismic, and water-stress exposure raise insurance, design, and operating costs."
+        ]
+      },
+      {
+        "label": "Why It's This Way",
+        "headline": "Four feedback loops sustain the friction",
+        "body": [
+          "The structural forces converge on five root causes of friction. The most consequential is regulatory architecture fragmentation — cantonal authority over land-use, combined with independent national gates from ICT, MINAE/SETENA, AyA, and INVU, produces unpredictable timelines and a structural local-expertise premium that disadvantages outside developers. The second is the awkward financing position of 5–12 villa boutique — too small for institutional debt, too small for development finance institutions, forced into equity-heavy stacks. The third is the persistent information asymmetry that local intermediaries have structural incentive to maintain. The fourth is the commoditization risk faced by new entrants without one of the three incumbent moat patterns. The fifth is climate and water-stress gating in the most desirable Pacific dry corridor.",
+          "Four feedback loops explain why this friction persists. Cantonal fragmentation creates demand for intermediaries; intermediary economics raise the cost of regulatory navigation; foreign-developer dependence reduces external pressure to standardize. Saturation in core wellness markets compresses ADR; new-entrant exits stabilize ADR — markets self-correct via entrant exit, not demand expansion. Incumbent moats compound over time via repeat business, direct-booking share, and brand-consortia investment. Coastal development pressure raises water demand; aquifer stress triggers AyA denials; new development falls. Two reinforcing loops compound against new foreign entrants while two balancing loops constrain market and geographic opportunity."
+        ]
+      },
+      {
+        "label": "The Question",
+        "headline": "Is Costa Rica boutique wellness suited for this venture?",
+        "body": [
+          "The Foundation gate question is whether we understand the structural forces, constraints, and dynamics of this industry well enough to identify real problems within it. The answer, on the strength of 464 citations and 10/10 investigation areas resolved, is yes.",
+          "The structural friction is real and well-evidenced. The defenders of the status quo have legitimate arguments — ICT's growth ceiling, mid-60% national occupancy stability, ADR softening signals — that any platform thesis must address. The boundary conditions are clear: ZMT public-domain structure, CR labor framework, climate exposure, territorial tax with 15% non-resident dividend WHT.",
+          "What the gate reviewer needs to decide: does Bhava's design-led, feminine-aesthetic, wellness-integrated boutique thesis fit one of the two viable new-entrant patterns — 'big and clear' (capex + brand) or 'small and sharp' (founder-led targeted retreat) — and avoid the commoditization fate of generic eco-chic? That question will be answered through Problem and Jobs research, not Foundation. Foundation says: the industry has structural friction worth investigating, and the analysis is evidenced enough to proceed."
+        ]
+      }
+    ],
+    "cta": {
+      "emphasis": "This is the first gate.",
+      "text": "Scroll to Gate Review for the evidence briefing and decision options."
+    }
+  },
+  "sections": [
+    {
+      "id": "forces",
+      "section_num": "01",
+      "section_title": "Structural Forces",
+      "component": "card-grid",
+      "alt": false,
+      "headline": "Ten forces shape this industry",
+      "lead": "Four regulatory forces, four commercial forces, two economic forces. Each is structural — industry-wide, not situational.",
+      "data": {
+        "cols": 2,
+        "cards": [
+          {
+            "label": {
+              "text": "REGULATORY",
+              "color": "purple"
+            },
+            "title": "SF1: Cantonal regulatory fragmentation",
+            "body": "The same boutique resort project faces materially different checklists, sequencing, processing behavior, and\nregulatory plans across Costa Rica's 82 cantons. Land-use confirmations, construction permits, operating\npatentes, and ZMT regulatory plans are administered municipally; ICT (national tourism), MINAE/SETENA\n(environmental), AyA (water), and INVU (urban planning) each gate independently with no unified portal or\nstandardized timelines.",
+            "extra_html": "<em>Creates: Timeline variance and unpredictability for outside developers • Local-expertise premium captured by intermediaries • Reduced comparability of regulatory due-diligence across sites</em>"
+          },
+          {
+            "label": {
+              "text": "REGULATORY",
+              "color": "purple"
+            },
+            "title": "SF2: National environmental and water hard gates",
+            "body": "SETENA environmental viability is legally preventive — projects cannot start without it — and AyA water\navailability is defined as real and current capacity (not future or potential). These two gates structurally\nprecondition any boutique resort project. CGR audit shows meaningful operational risk inside the EIA system\n(control inconsistencies, limited inspections, reliance on external consultants).",
+            "extra_html": "<em>Creates: Hard preconditions on coastal/forested development • Local-expertise premium for navigating SETENA • Regional development gating in water-stressed Guanacaste</em>"
+          },
+          {
+            "label": {
+              "text": "REGULATORY",
+              "color": "purple"
+            },
+            "title": "SF3: Zona Marítimo Terrestre public-domain + concession structure",
+            "body": "Ley 6043 (1977) defines the 200-meter coastal strip from mean high tide as public domain: 50m inalienable\nZona Pública + 150m Zona Restringida granted only via concession (administrative right, not fee-simple).\nConcessions are typically 20-year terms, transferable only with municipal/ICT approval, and subject to\nnationality conditions in some cantons. Special regimes (Polo Turístico Golfo de Papagayo, Ley 6758) allow\nlonger terms (up to 50 years for marinas) and centralize ICT authority.",
+            "extra_html": "<em>Creates: No fee-simple ownership in maritime zone • Concession risk priced into coastal capital structures • Foreign-developer structuring complexity (Costa Rican-controlled entity often required)</em>"
+          },
+          {
+            "label": {
+              "text": "COMMERCIAL",
+              "color": "cyan"
+            },
+            "title": "SF4: OTA distribution power and rate-parity dynamics",
+            "body": "OTAs (Booking, Airbnb, Expedia) sustain power through take-rate economics (typically 10–25%, Airbnb single-fee\n14–16%) and parity-style contracting (MFN-logic clauses limiting hotel ability to reward low-commission\nchannels with lower rates). Independent boutique CR operators have structural channel dependency, with a\nlarge share of gross room revenue mediated by OTAs, especially in launch phase before direct-booking demand builds.",
+            "extra_html": "<em>Creates: Margin compression for new boutique entrants • Direct-booking infrastructure premium for incumbents • Channel-dependence path that takes years to escape</em>"
+          },
+          {
+            "label": {
+              "text": "COMMERCIAL",
+              "color": "cyan"
+            },
+            "title": "SF5: Real-estate information asymmetry",
+            "body": "No centralized MLS exists in Costa Rica; listing data is fragmented across brokers and direct-to-owner\nchannels. Land pricing transparency, title verification, permit timelines, contractor pricing, and concession\neligibility are opaque to outsiders. Local intermediaries (agents, lawyers, brokers, consultants) hold\nstructural information advantage and capture premium for their access.",
+            "extra_html": "<em>Creates: Local-expertise premium structurally maintained • Higher due-diligence cost for foreign-led projects • Persistent information advantage held by local intermediaries</em>"
+          },
+          {
+            "label": {
+              "text": "ECONOMIC",
+              "color": "amber"
+            },
+            "title": "SF6: Capital scarcity at 5–12 villa boutique scale",
+            "body": "The 5–12 villa scale falls into a structural financing gap: too small for institutional hospitality lenders\n(global lenders Aareal, Berkadia, BHC focus on larger tickets), too small for crowd-sourced CRE platforms\n(CrowdStreet, EquityMultiple), and too small for development-finance institutions (CABEI, IFC tilt to larger\ntourism/infrastructure). Costa Rican commercial banks lend at conservative LTVs (40–60%) to foreign sponsors\nwith strong collateral and guarantees. Result: 50–80% of project cost is equity from sponsor balance sheet,\nfriends-and-family, and HNW co-investors or private syndicates.",
+            "extra_html": "<em>Creates: Equity-heavy capital stacks (50–80% equity) at boutique scale • Slower scaling and limited capacity to expand by Phase Two • Sponsor-balance-sheet and HNW-network dependence</em>"
+          },
+          {
+            "label": {
+              "text": "ECONOMIC",
+              "color": "amber"
+            },
+            "title": "SF7: Climate, seismic, and water-stress exposure",
+            "body": "Coastal Costa Rica boutique hospitality faces material climate and seismic risk: hurricane intensity, sea-level\nrise, erosion, earthquakes, and Guanacaste dry-season water scarcity. Aquifer overuse and salinization are\ndocumented in Guanacaste; water conflicts with local communities are recurring. Climate risk is priced into\ninsurance availability and cost; seismic into structural design. SETENA increasingly scrutinizes climate-\nsensitive sites.",
+            "extra_html": "<em>Creates: Insurance pricing premium for coastal projects • Water-availability denial as structural development gate in dry corridor • Capital cost of resilience design</em>"
+          },
+          {
+            "label": {
+              "text": "COMMERCIAL",
+              "color": "cyan"
+            },
+            "title": "SF8: Mature-market saturation signals + ICT growth ceiling",
+            "body": "Established wellness/eco-luxury markets (Nosara, Santa Teresa, Manuel Antonio, Uvita, Tamarindo) show evidence\nof supply growth combined with ADR/occupancy softening. National hotel performance has stabilized at mid-60%\noccupancy with ADR softening through 2024–2025. ICT explicitly targets a \"quality over quantity\" growth\nphilosophy with a deliberate 2–3% annual growth ceiling, not aggressive expansion.",
+            "extra_html": "<em>Creates: Margin compression for new boutique entrants in core markets • Strategic premium on under-served sub-segments and emerging frontiers • Pressure to differentiate beyond commodity boutique positioning</em>"
+          },
+          {
+            "label": {
+              "text": "COMMERCIAL",
+              "color": "cyan"
+            },
+            "title": "SF9: Three structural moat patterns held by incumbents",
+            "body": "CR boutique wellness incumbents defend margin via three structural moat patterns: (1) location moat —\ngrandfathered scarce coastal parcels (Pranamar, Florblanca, Olas Verdes), (2) network embedding —\nyoga/retreat circuit ties producing predictable group bookings (Bodhi Tree, Blue Spirit), (3) brand/consortia\nties — international luxury network affiliation (Nantipa via SLH, Hacienda AltaGracia via Auberge, Virtuoso\nmemberships). New entrants without one of these moats face structural commoditization.",
+            "extra_html": "<em>Creates: Two viable new-entrant strategies; generic boutique uncompetitive • Incumbent direct-booking share growth over time (compounding moat) • Premium on founder-led narrative or institutional brand affiliation</em>"
+          },
+          {
+            "label": {
+              "text": "REGULATORY",
+              "color": "purple"
+            },
+            "title": "SF10: Costa Rican labor and social-charge structure",
+            "body": "CCSS (social security) combined contributions are roughly mid-30% of gross payroll (employer ~25%, employee ~10%);\nINS workers' compensation adds risk-classified premium; MTSS minimum-wage decrees specify minimums by hospitality\nrole; aguinaldo (13th month), vacation, and severance are non-waivable. Ley 7064 establishes the 90/10 rule\n(≥90% Costa Rican workforce, ≤10% foreign). Recent CCSS IVM contribution rate increases (2026) raise structural\npayroll cost.",
+            "extra_html": "<em>Creates: Material payroll-cost premium over nominal wages • Constraint on foreign expat staffing depth • Mandatory benefit-stack obligation regardless of operating performance</em>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "root-causes",
+      "section_num": "02",
+      "section_title": "Root Causes of Friction",
+      "component": "card-grid",
+      "alt": true,
+      "headline": "Five root causes",
+      "lead": "Where the structural forces converge to create friction. RC1, RC2, RC3 are addressable; RC4 is partially addressable through strategy; RC5 has a boundary-condition component.",
+      "data": {
+        "cols": 2,
+        "cards": [
+          {
+            "label": {
+              "text": "RC1",
+              "color": "red"
+            },
+            "title": "Costa Rica's tourism regulatory architecture is fragmented across cantonal authorities and national environmental\ngates,",
+            "body": "Municipal authority over land-use + ICT (national tourism) + MINAE/SETENA (environmental viability) + AyA (water)\n+ INVU (urban planning) each gate independently with their own portals, processes, and timelines. Per-cantonal\nZMT regulatory plans add another layer of variance. The combination produces unpredictable timelines and a\nstructural local-expertise premium that disadvantages outside (especially foreign) developers.",
+            "extra_html": "<em>Forces: SF1, SF2</em>"
+          },
+          {
+            "label": {
+              "text": "RC2",
+              "color": "red"
+            },
+            "title": "Boutique-scale (5–12 villa) hospitality occupies a structurally awkward financing position — too small for\ninstitutional",
+            "body": "Institutional hospitality lenders and global brand-backed financing require larger ticket sizes; CR commercial\nbanks lend at conservative LTVs to foreign sponsors with strong collateral and personal guarantees; CABEI/IFC\ntilt to larger tourism/infrastructure deals; crowd-sourced CRE platforms have no consistent CR boutique pipeline.\nClimate/seismic exposure adds a project-level risk premium that further deters debt providers. Saturation in\ncore markets compresses pro-forma underwriting margin. Net result: boutique scale is forced into all-equity\nor HNW-syndicated capital, which limits scaling pace and exit liquidity.",
+            "extra_html": "<em>Forces: SF6, SF7, SF8</em>"
+          },
+          {
+            "label": {
+              "text": "RC3",
+              "color": "red"
+            },
+            "title": "Information asymmetry between foreign developers and the local Costa Rican market is structurally maintained\nby the abse",
+            "body": "Land prices, title histories, permit timelines, contractor pricing, and concession eligibility are mediated\nthrough local intermediaries who hold private information advantage. Cantonal fragmentation amplifies the\ncomplexity, making generalized self-research insufficient. The intermediary economy has structural incentive\nto maintain opacity rather than democratize the information.",
+            "extra_html": "<em>Forces: SF1, SF5</em>"
+          },
+          {
+            "label": {
+              "text": "RC4",
+              "color": "red"
+            },
+            "title": "Mature wellness markets are reaching demand absorption limits while OTA structural concentration compresses\nmargin for n",
+            "body": "OTA take rates (10–25%) plus rate-parity clauses limit pricing power for new entrants without direct-booking\ndemand. Saturation signals in Nosara/Santa Teresa/Uvita (supply growth + ADR softening) shrink the margin\nbuffer. Incumbent moats (grandfathered location, retreat-network embedding, brand affiliation) compound over\ntime via repeat business and direct-booking share. New boutique entrants without a moat face thin margins,\nslow ramp, and exit pressure.",
+            "extra_html": "<em>Forces: SF4, SF8, SF9</em>"
+          },
+          {
+            "label": {
+              "text": "RC5",
+              "color": "red"
+            },
+            "title": "Climate and water-stress exposure structurally limits boutique expansion in Costa Rica's most desirable\nPacific dry corr",
+            "body": "Guanacaste aquifer overuse and salinization combine with seasonal precipitation patterns to produce hard\nwater-availability gating via AyA. Hurricane and erosion risk raise insurance and design capex. SETENA\nscrutiny of climate-sensitive sites is increasing. The cumulative effect is structural limitation on where\nand how boutique can expand in the highest-demand wellness corridor.",
+            "extra_html": "<em>Forces: SF7, SF2</em>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "causal-structure",
+      "section_num": "03",
+      "section_title": "Causal Structure",
+      "component": "card-grid",
+      "alt": false,
+      "headline": "Three complete chains from forces to friction",
+      "lead": "Each chain traces structural forces through intermediate causes to a root cause. Every link cites evidence and describes the mechanism.",
+      "data": {
+        "cols": 1,
+        "cards": [
+          {
+            "label": {
+              "text": "CC1",
+              "color": "purple"
+            },
+            "title": "Chain CC1: 4 links",
+            "body": "<strong>SF1</strong> → per-canton permit-process variance <em>(high confidence)</em><br>↓<br><strong>SF2</strong> → hard preconditions add timeline variance <em>(high confidence)</em><br>↓<br><strong>per-canton variance + hard-gate timeline variance</strong> → RC1 <em>(high confidence)</em><br>↓<br><strong>RC1</strong> → foreign-developer disadvantage in time-to-permit, capital-time efficiency, deal access <em>(high confidence)</em>"
+          },
+          {
+            "label": {
+              "text": "CC2",
+              "color": "purple"
+            },
+            "title": "Chain CC2: 5 links",
+            "body": "<strong>SF4</strong> → new-entrant OTA channel dependence and margin compression <em>(high confidence)</em><br>↓<br><strong>SF8</strong> → mature-market supply growth + ADR softening <em>(high confidence)</em><br>↓<br><strong>SF9</strong> → incumbent moat compounding <em>(high confidence)</em><br>↓<br><strong>(channel dependence + saturation + moat compounding)</strong> → RC4 <em>(high confidence)</em><br>↓<br><strong>RC4</strong> → high failure/exit rate among generic boutique entrants; only 'big and clear' or 'small and sharp' pa <em>(high confidence)</em>"
+          },
+          {
+            "label": {
+              "text": "CC3",
+              "color": "purple"
+            },
+            "title": "Chain CC3: 5 links",
+            "body": "<strong>SF6</strong> → 5–12 villa scale below institutional debt thresholds <em>(high confidence)</em><br>↓<br><strong>SF7</strong> → climate/seismic risk pricing into insurance and design capex <em>(high confidence)</em><br>↓<br><strong>BC3</strong> → hard environmental constraint on highest-demand corridors <em>(medium confidence)</em><br>↓<br><strong>(sub-threshold capital + risk pricing + environmental constraint)</strong> → RC2 <em>(high confidence)</em><br>↓<br><strong>RC2</strong> → slow scaling, limited Phase Two capacity, thin private exit market <em>(high confidence)</em>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "dynamics",
+      "section_num": "04",
+      "section_title": "Feedback Dynamics",
+      "component": "card-grid",
+      "alt": true,
+      "headline": "Four loops sustain the friction",
+      "lead": "Two reinforcing loops compound against new foreign entrants — local-intermediary economy and incumbent moat compounding. Two balancing loops constrain opportunity — saturation self-correction and climate-water 'limits to growth.'",
+      "data": {
+        "cols": 2,
+        "cards": [
+          {
+            "label": {
+              "text": "REINFORCING",
+              "color": "red"
+            },
+            "title": "FL1: Cantonal regulatory fragmentation creates demand for local intermediaries...",
+            "body": "Cantonal regulatory fragmentation creates demand for local intermediaries; intermediary fees and gatekeeping\nraise the cost of regulatory navigation, which sustains foreign-developer dependence on intermediaries; that\ndependence reduces external pressure to standardize cantonal processes; cantonal fragmentation persists.",
+            "extra_html": "<em>Elements: SF1, SF5, RC1, RC3</em>"
+          },
+          {
+            "label": {
+              "text": "BALANCING",
+              "color": "green"
+            },
+            "title": "FL2: Saturation in core wellness markets compresses ADR...",
+            "body": "Saturation in core wellness markets compresses ADR; new-entrant margin compression accelerates exits or\nnon-entry; supply absorption stabilizes; ADR partially recovers. Balancing dynamic — markets self-correct\nvia entrant exit, not via demand expansion.",
+            "extra_html": "<em>Elements: SF8, SF4, RC4</em>"
+          },
+          {
+            "label": {
+              "text": "REINFORCING",
+              "color": "red"
+            },
+            "title": "FL3: Incumbent location/network/brand moat → strong repeat business → growing direct-...",
+            "body": "Incumbent location/network/brand moat → strong repeat business → growing direct-booking share → margin\ngrowth → reinvestment in moat (capex, brand-consortia ties, marketing) → moat strengthens. Established\nplayers compound their advantage over time; new entrants face widening gap unless they build a different moat.",
+            "extra_html": "<em>Elements: SF9, SF4, RC4</em>"
+          },
+          {
+            "label": {
+              "text": "BALANCING",
+              "color": "green"
+            },
+            "title": "FL4: Coastal development pressure increases dry-season water demand...",
+            "body": "Coastal development pressure increases dry-season water demand; aquifer stress rises; AyA water-availability\ndenials increase; new development rate falls; aquifer pressure stabilizes. Limits-to-Growth archetype —\ngrowth engine encounters environmental constraint.",
+            "extra_html": "<em>Elements: SF7, SF2, RC5</em>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "boundaries",
+      "section_num": "05",
+      "section_title": "Boundary Conditions",
+      "component": "card-grid",
+      "alt": false,
+      "headline": "Four conditions a venture cannot change",
+      "lead": "The platform must work within these, not against them. Constitutional, statutory, and physical-environmental constraints.",
+      "data": {
+        "cols": 2,
+        "cards": [
+          {
+            "label": {
+              "text": "BC1",
+              "color": "amber"
+            },
+            "title": "Zona Marítimo Terrestre (ZMT) public-domain + concession-only structure (Ley 6043, 1977)",
+            "body": "<strong>Why immovable:</strong> Constitutional principle of public-domain coastal protection; statutory framework predates 50 years; courts\nand Contraloría have consistently nullified attempts to treat ZMT as private property. Reform unlikely to\nprivatize the public band; tightening (not loosening) is the political direction.<br><br><strong>Implications:</strong> No fee-simple ownership in the 200m maritime zone. Coastal boutique resorts must be inland of the 200m line\nor operate via concession (administrative right, not equity). Concession risk (revocation, non-renewal,\ntransferability constraints, nationality conditions in some cantons) must be priced into capital structures.\nSpecial regimes (Papagayo) operate on different terms but don't change the underlying public-domain principle."
+          },
+          {
+            "label": {
+              "text": "BC2",
+              "color": "amber"
+            },
+            "title": "Costa Rican labor and social-charge framework (CCSS, INS, MTSS, 90/10 rule)",
+            "body": "<strong>Why immovable:</strong> Constitutional (Article 56, Article 74) and longstanding statutory framework; institutional structure deeply\nembedded; reform direction is incremental rate increases (CCSS IVM raised Jan 2026), not structural change.<br><br><strong>Implications:</strong> ~35% combined social charges add materially to nominal wages. 90/10 rule (Ley 7064) constrains foreign expat\nstaffing depth. Mandatory aguinaldo, vacation, and severance are non-waivable. Operating P&Ls must underwrite\nthese costs from day one."
+          },
+          {
+            "label": {
+              "text": "BC3",
+              "color": "amber"
+            },
+            "title": "Climate and water exposure of Pacific Costa Rica coastal corridor",
+            "body": "<strong>Why immovable:</strong> Physical/environmental — ENSO precipitation cycles, dry-season patterns, sea-level rise trajectory, hurricane\nintensity trends. No venture intervention can change Pacific climate or aquifer recharge rates.<br><br><strong>Implications:</strong> Boutique developments in Guanacaste/Nicoya must design for water positivity (rainwater capture, greywater\nrecycling, on-site storage). Insurance and capex reflect climate risk premium. Site selection must consider\nerosion, flood, and storm exposure. Long-term horizon must price further climate degradation."
+          },
+          {
+            "label": {
+              "text": "BC4",
+              "color": "amber"
+            },
+            "title": "Costa Rican territorial corporate income tax + 15% non-resident dividend WHT + 15% real-estate capital gains",
+            "body": "<strong>Why immovable:</strong> Statutory framework (Ley del Impuesto sobre la Renta) with active reform debate but stable core structure.\nLimited treaty network — most foreign investors take direct hit on dividends. Reform direction is broader\nbase / global income, not loosening.<br><br><strong>Implications:</strong> Corporate income tax applies to CR-source revenue regardless of owner nationality. Dividend distributions\nto non-resident owners taxed at 15%. Capital gains on CR real estate at 15%. Tax structuring requires\nCosta Rican professional input; double-taxation mitigation is structurally limited."
+          }
+        ]
+      }
+    },
+    {
+      "id": "changing",
+      "section_num": "06",
+      "section_title": "What's Changing",
+      "component": "accordion",
+      "alt": true,
+      "headline": "Trends, disruption history, and counter-evidence",
+      "lead": "Where the structural landscape is shifting, what disruption attempts have shown, and the legitimate arguments for the status quo.",
+      "data": {
+        "panels": [
+          {
+            "title": "Trends",
+            "items": [
+              {
+                "q": "ICT 'quality over quantity' growth philosophy with deliberate 2–3% annual growth ceiling",
+                "a": "Direction: Constraining new supply nationally; favoring premium/wellness positioning"
+              },
+              {
+                "q": "Mature wellness markets (Nosara, Santa Teresa, Uvita) showing supply growth + ADR softening",
+                "a": "Direction: Saturation signals in core markets; pressure to differentiate or migrate to emerging frontiers"
+              },
+              {
+                "q": "Tightening RTBF beneficial-owner reporting enforcement (Ley 9416); CCSS contribution rate increases",
+                "a": "Direction: Higher compliance and operating cost; greater transparency requirement on foreign-owned structures"
+              },
+              {
+                "q": "Political pressure to tighten ZMT enforcement (Papagayo reform bill 2026)",
+                "a": "Direction: Higher regulatory bar on coastal development; favoring fully-compliant operators"
+              },
+              {
+                "q": "Climate-driven water stress in Guanacaste / Pacific dry corridor",
+                "a": "Direction: Increasing AyA water-availability denials; pressure on water-positive design"
+              },
+              {
+                "q": "Wellness/digital-nomad demand mix shift (longer stays, retreat formats, sober-curious)",
+                "a": "Direction: Favoring properties with structured wellness programming and longer-stay infrastructure"
+              }
+            ]
+          },
+          {
+            "title": "Disruption Attempts",
+            "items": [
+              {
+                "q": "Sonesta Jacó condo-hotel",
+                "a": "<strong>Outcome:</strong> Capital-structure failure (CABEI loan acceleration / dispute, lender litigation)<br><strong>Lesson:</strong> Capital-structure experiments (condo-hotel presales + debt) are non-restartable once lenders accelerate, even on mostly-built projects"
+              },
+              {
+                "q": "Ocean-Cove (named environmental compliance dispute)",
+                "a": "<strong>Outcome:</strong> Multi-year stall pending court/agency resolution<br><strong>Lesson:</strong> Entitlement and environmental compliance disputes can stop projects for years; SETENA + community veto are real"
+              },
+              {
+                "q": "Generic eco-chic small boutique entrants in core wellness markets",
+                "a": "<strong>Outcome:</strong> Commoditization, slow ramp, exits or quiet repositioning<br><strong>Lesson:</strong> Boutique without a structural moat (location, network, brand) drifts into OTA-mediated commodity rates"
+              },
+              {
+                "q": "Various fractional ownership / residence-club projects",
+                "a": "<strong>Outcome:</strong> Mixed; capital-structure fragility a recurring failure mode<br><strong>Lesson:</strong> Fractional and residence-club models work where governance and operating infrastructure are strong; fail where presales-financed and lender-dependent"
+              }
+            ]
+          },
+          {
+            "title": "Counter-Evidence",
+            "items": [
+              {
+                "q": "ICT explicitly targets 'quality over quantity' with 2–3% annual growth ceiling, suggesting the segment is mature, healthy, and deliberately not under-built",
+                "a": "<em>Source: ICT national tourism authority</em>"
+              },
+              {
+                "q": "National hotel performance has stabilized at mid-60% occupancy with supply growth absorbed; the existing landscape adequately serves wellness/eco-luxury demand",
+                "a": "<em>Source: EY Law / Chambers / STR national data</em>"
+              },
+              {
+                "q": "ADR softening in Nosara, Santa Teresa, Uvita signals that core wellness markets may not absorb additional new supply without further price erosion",
+                "a": "<em>Source: Industry STR commentary</em>"
+              },
+              {
+                "q": "5–12 villa scale is structurally awkward — too big to be owner-operated, too small to gain operating leverage or attract brand affiliation",
+                "a": "<em>Source: Industry talk; not formally studied</em>"
+              },
+              {
+                "q": "Climate, water, and political risks (RTBF tightening, ZMT reform pressure) favor incumbents with scale, political capital, and brand power over small foreign-led entrants",
+                "a": "<em>Source: Industry counter-evidence synthesis</em>"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "experts",
+      "section_num": "07",
+      "section_title": "Expert Views",
+      "component": "card-grid",
+      "alt": false,
+      "headline": "Six points of consensus, four points of disagreement",
+      "lead": "Where experts agree about the industry's structural challenges, and where they diverge. Disagreement signals uncertainty and reveals where the landscape is not fully understood.",
+      "data": {
+        "cols": 2,
+        "cards": [
+          {
+            "label": {
+              "text": "CONSENSUS",
+              "color": "green"
+            },
+            "title": "Cantonal regulatory fragmentation produces real timeline variance and a structural local-expertise premium",
+            "body": "<em>Sources: CGR (Comptroller General), Costa Rican law firms (BLP, Arias, EY Law, BDO)</em>"
+          },
+          {
+            "label": {
+              "text": "CONSENSUS",
+              "color": "green"
+            },
+            "title": "SETENA environmental viability and AyA water availability are hard preconditions, not soft gates",
+            "body": "<em>Sources: CGR audit, MINAE primary regulatory text, Multiple Costa Rican legal commentaries</em>"
+          },
+          {
+            "label": {
+              "text": "CONSENSUS",
+              "color": "green"
+            },
+            "title": "The 5–12 villa boutique scale is equity-heavy financed with limited debt access for foreign sponsors",
+            "body": "<em>Sources: HVS Latin America, JLL Hotels, Hospitality finance commentaries</em>"
+          },
+          {
+            "label": {
+              "text": "CONSENSUS",
+              "color": "green"
+            },
+            "title": "Three structural moat patterns — location, network embedding, brand-consortia ties — defend margin among CR boutique inc",
+            "body": "<em>Sources: Skift, Hospitality Net, Industry interviews</em>"
+          },
+          {
+            "label": {
+              "text": "CONSENSUS",
+              "color": "green"
+            },
+            "title": "Climate and water exposure are material project-level risks for coastal CR hospitality",
+            "body": "<em>Sources: Climate-risk publications focused on Central America, Insurance industry publications, CR environmental research</em>"
+          },
+          {
+            "label": {
+              "text": "CONSENSUS",
+              "color": "green"
+            },
+            "title": "ICT 'quality over quantity' philosophy and 2–3% growth ceiling are real institutional commitments",
+            "body": "<em>Sources: ICT national tourism authority, CR tourism academic research</em>"
+          },
+          {
+            "label": {
+              "text": "DISAGREEMENT",
+              "color": "amber"
+            },
+            "title": "Whether the 5–12 villa scale is structurally weak or workable",
+            "body": "• Structurally weak — too big to be owner-operated, too small for brand affiliation or operating leverage<br>• Workable as 'small and sharp' founder-led targeted retreat with strong local integration",
+            "extra_html": "<em>Sources: Industry counter-evidence (skeptical view), round-02/ia10-competitive-moats-and-new-entrants.md (constructive view)</em>"
+          },
+          {
+            "label": {
+              "text": "DISAGREEMENT",
+              "color": "amber"
+            },
+            "title": "Empirics of Tulum-to-Costa Rica wellness traveler migration",
+            "body": "• Real and substantial — anecdotal evidence from operators, social commentary, OTA share-of-search shifts (proprietary)<br>• Overstated — no public quantitative dataset measures defection; demand may be additive rather than migrating",
+            "extra_html": "<em>Sources: Skift, Industry consultants, Operator interviews</em>"
+          },
+          {
+            "label": {
+              "text": "DISAGREEMENT",
+              "color": "amber"
+            },
+            "title": "Whether ADR softening in Nosara/Santa Teresa is cyclical or structural saturation",
+            "body": "• Cyclical — post-COVID demand normalization combined with currency effects, not structural<br>• Structural saturation — supply growth has outrun demand absorption in mature wellness towns",
+            "extra_html": "<em>Sources: STR commentary, Industry observers</em>"
+          },
+          {
+            "label": {
+              "text": "DISAGREEMENT",
+              "color": "amber"
+            },
+            "title": "Whether ICT 2–3% growth cap is a binding institutional commitment or aspirational framing",
+            "body": "• Binding — ICT actively constrains supply via permit pressure and 'quality over quantity'<br>• Aspirational — actual growth is determined by SETENA, AyA, and municipal permit issuance, which collectively respond to market demand",
+            "extra_html": "<em>Sources: ICT statements, Counter-commentary from industry analysts</em>"
+          }
+        ]
+      }
+    },
+    {
+      "id": "gate",
+      "section_num": "08",
+      "section_title": "Gate Review",
+      "component": "gate-review",
+      "alt": true,
+      "headline": "Foundation gate decision",
+      "lead": "The gate question and the evidence briefing. Validation passed all 7 criteria.",
+      "data": {
+        "question": "Do we understand the structural forces, constraints, and dynamics of this industry well enough to identify real problems within it?",
+        "stat_row": {
+          "items": [
+            {
+              "value": "10",
+              "label": "Structural Forces",
+              "color": "accent"
+            },
+            {
+              "value": "5",
+              "label": "Root Causes",
+              "color": "accent"
+            },
+            {
+              "value": "3",
+              "label": "Causal Chains",
+              "color": "accent"
+            },
+            {
+              "value": "464",
+              "label": "Citations",
+              "color": "accent"
+            },
+            {
+              "value": "high",
+              "label": "Confidence",
+              "color": "green"
+            }
+          ]
+        },
+        "strengths": [
+          "10/10 investigation areas resolved with strong evidence after 2 research rounds",
+          "464 citations across regulatory, commercial, technological, capital, demand, and competitive dimensions",
+          "99% of sources from 2024+ — well above 50% recency threshold",
+          "Multiple structural forces converge on a small set of root causes via causal chains supported by multi-source evidence",
+          "Counter-evidence actively sought; legitimate status-quo arguments addressed proportionally"
+        ],
+        "gaps": [
+          "Quantitative ADR/occupancy time series by named wellness town (paywalled STR/AirDNA — inherent public-source limit)",
+          "Empirical Tulum→CR migration measurement (proprietary OTA share-of-search data)",
+          "Property-level financials (RevPAR, GOPPAR, margins) for named CR boutique incumbents (not publicly disclosed)",
+          "Statistically rigorous insurance cost benchmarks for foreign-owned 5–12 villa coastal operations"
+        ],
+        "validation": [
+          {
+            "text": "Structural forces identified — 10 forces, 3 types",
+            "status": "pass"
+          },
+          {
+            "text": "Root causes identified — 5 root causes with termination tests",
+            "status": "pass"
+          },
+          {
+            "text": "Causal chain evidenced — 3 chains, all links cited",
+            "status": "pass"
+          },
+          {
+            "text": "Boundary conditions documented — 4 boundary conditions",
+            "status": "pass"
+          },
+          {
+            "text": "Counter-evidence addressed — 14 entries, 4 disagreement topics",
+            "status": "pass"
+          },
+          {
+            "text": "Expert views captured — 6 consensus + 4 disagreement",
+            "status": "pass"
+          },
+          {
+            "text": "Source recency sufficient — 99% from 2024+",
+            "status": "pass"
+          }
+        ],
+        "decisions": [
+          {
+            "label": "PROCEED",
+            "title": "Industry has structural friction worth addressing",
+            "body": "Advance to Problem workspace. The industry shows clear structural friction (cantonal fragmentation, capital scale gap, information asymmetry, commoditization risk for non-moated entrants, climate gating). The boundary conditions are documented and bounded. Counter-evidence does not undermine the case for investigating; it sharpens what the venture must overcome. Problem workspace will need stakeholder transcripts to validate practitioner pain.",
+            "color": "green"
+          },
+          {
+            "label": "REVISE",
+            "title": "Landscape needs deeper investigation",
+            "body": "Re-run Foundation research with refined investigation areas. Specific gaps to revisit might include: empirical migration data, property-level financial benchmarks, or alternative geographic frontiers (Caribbean coast, Osa peninsula). Cost: another research round (~$2–3).",
+            "color": "amber"
+          },
+          {
+            "label": "KILL",
+            "title": "Industry doesn't fit a venture thesis",
+            "body": "Stop. The structural picture suggests one of: ICT's 'quality over quantity' ceiling combined with mature-market saturation makes new boutique entry structurally unattractive; the 5–12 villa scale is structurally awkward and unworkable; or the boundary conditions (climate, ZMT, labor) make the unit economics non-viable.",
+            "color": "red"
+          }
+        ]
+      }
+    },
+    {
+      "id": "sources",
+      "section_num": "09",
+      "section_title": "Sources",
+      "component": "source-list",
+      "alt": false,
+      "headline": "443 unique sources",
+      "lead": "Deduplicated across both research rounds. 99% from 2024+. Organized by category.",
+      "data": {
+        "categories": [
+          {
+            "name": "Government / Costa Rican Primary",
+            "items": [
+              {
+                "org": "Visado municipal - Gobierno Local de El Guarco",
+                "title": "Visado municipal - Gobierno Local de El Guarco",
+                "date": "2026-04-27T17:38:41",
+                "url": "https://muniguarco.go.cr/tramites/visado-municipal/",
+                "cited_for": "regulatory-landscape"
+              },
+              {
+                "org": "incop impulsa la revitalización del parque el muellero en puntarenas",
+                "title": "incop impulsa la revitalización del parque el muellero en puntarenas",
+                "date": "2026-04-22T00:00:00",
+                "url": "https://incop.go.cr/noticias-todas/",
+                "cited_for": "regulatory-landscape"
+              },
+              {
+                "org": "[PDF] ALCANCE NO 39 A LA GACETA NO 71",
+                "title": "[PDF] ALCANCE NO 39 A LA GACETA NO 71",
+                "date": "2026-04-20T00:00:00",
+                "url": "https://www.dnn.go.cr/sites/default/files/2026-04/ALCA39_20_04_2026.pdf",
+                "cited_for": "ia6-foreign-ownership-and-zmt-specifics, regulatory-landscape"
+              },
+              {
+                "org": "¿Qué debo hacer para solicitar un permiso de construcción?",
+                "title": "¿Qué debo hacer para solicitar un permiso de construcción?",
+                "date": "2026-04-19T00:00:00",
+                "url": "https://muniguarco.go.cr/helpie_faq/que-debo-hacer-para-solicitar-un-permiso-de-construccion/",
+                "cited_for": "regulatory-landscape"
+              },
+              {
+                "org": "Certificado uso del suelo - Gobierno Local de El Guarco",
+                "title": "Certificado uso del suelo - Gobierno Local de El Guarco",
+                "date": "2026-04-16T00:00:00",
+                "url": "https://muniguarco.go.cr/tramites/certificado-uso-suelo/",
+                "cited_for": "regulatory-landscape"
+              },
+              {
+                "org": "Construcción en Terreno propio - Portal-INVU",
+                "title": "Construcción en Terreno propio - Portal-INVU",
+                "date": "2026-04-10T00:00:00",
+                "url": "https://www.invu.go.cr/construccion-en-terreno-propio",
+                "cited_for": "regulatory-landscape"
+              },
+              {
+                "org": "Site Map - DFPI - CA.gov",
+                "title": "Site Map - DFPI - CA.gov",
+                "date": "2026-04-01T00:00:00",
+                "url": "https://dfpi.ca.gov/site-map/",
+                "cited_for": "commercial-dynamics"
+              },
+              {
+                "org": "[PDF] 2025 ANNUAL REPORT - SEC.gov",
+                "title": "[PDF] 2025 ANNUAL REPORT - SEC.gov",
+                "date": "2026-03-31T00:00:00",
+                "url": "https://www.sec.gov/Archives/edgar/data/73309/000119312526127746/d51842dars.pdf",
+                "cited_for": "disruption-history"
+              },
+              {
+                "org": "[PDF] real estate commission - DCCA Hawaii",
+                "title": "[PDF] real estate commission - DCCA Hawaii",
+                "date": "2026-03-28T00:00:00",
+                "url": "https://cca.hawaii.gov/wp-content/uploads/2026/03/rec_230825.pdf",
+                "cited_for": "disruption-history"
+              },
+              {
+                "org": "Texto completo - Sistema Costarricense de Información Jurídica",
+                "title": "Texto completo - Sistema Costarricense de Información Jurídica",
+                "date": "2026-03-25T00:00:00",
+                "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?param1=NRTC&nValor1=1&nValor2=106227&nValor3=149533&strTipM=TC",
+                "cited_for": "regulatory-landscape"
+              },
+              {
+                "org": "[PDF] TELECOMMUNICATIONS - Sutel",
+                "title": "[PDF] TELECOMMUNICATIONS - Sutel",
+                "date": "2026-03-20T00:00:00",
+                "url": "https://www.sutel.go.cr/sites/default/files/informe-estadisticas-del-sector-de-telecomunicaciones-2024--ingles-.pdf",
+                "cited_for": "regulatory-landscape, technology-systems"
+              },
+              {
+                "org": "[PDF] 1 ACTA ORDINARIA 05-2026, 03 FEBRERO 2026 CORPORACIÓN ...",
+                "title": "[PDF] 1 ACTA ORDINARIA 05-2026, 03 FEBRERO 2026 CORPORACIÓN ...",
+                "date": "2026-03-05T00:00:00",
+                "url": "https://www.munialajuela.go.cr/Documentos/OtherFiles/ORDINARIA_05-2026_03_FEBRERO_13-02-2026_07_50_36.pdf",
+                "cited_for": "regulatory-landscape"
+              },
+              {
+                "org": "[PDF] 2026 U.S. National Trade Estimate Report on Foreign Trade Barriers",
+                "title": "[PDF] 2026 U.S. National Trade Estimate Report on Foreign Trade Barriers",
+                "date": "2026-03-04T00:00:00",
+                "url": "https://ustr.gov/sites/default/files/files/Press/Releases/2026/National%20Trade%20Estimate%20Report%202026.pdf",
+                "cited_for": "regulatory-landscape"
+              },
+              {
+                "org": "[PDF] Anexos al Informe de Seguimiento del II Semestre 2025 sobre los ...",
+                "title": "[PDF] Anexos al Informe de Seguimiento del II Semestre 2025 sobre los ...",
+                "date": "2026-02-27T00:00:00",
+                "url": "https://www.hacienda.go.cr/docs/AnexosInformeGeneraldeSegdeCreditosExternosIISem2025.pdf",
+                "cited_for": "commercial-dynamics, regulatory-landscape"
+              },
+              {
+                "org": "[PDF] ESTADO DE NOTAS CONTABLES AL 31 DE DICIEMBRE DE 2025",
+                "title": "[PDF] ESTADO DE NOTAS CONTABLES AL 31 DE DICIEMBRE DE 2025",
+                "date": "2026-02-16T00:00:00",
+                "url": "https://www.imas.go.cr/sites/default/files/docs/Formato%20Notas%20Contables%20Institucionesv4%20diciembre%202025.pdf",
+                "cited_for": "commercial-dynamics"
+              },
+              {
+                "org": "Requisitos para Trámites - Municipalidad de San Rafael de Heredia",
+                "title": "Requisitos para Trámites - Municipalidad de San Rafael de Heredia",
+                "date": "2026-02-16T00:00:00",
+                "url": "https://www.munisrh.go.cr/requisitos-para-tramites/",
+                "cited_for": "regulatory-landscape"
+              },
+              {
+                "org": "[PDF] Acta 101 Sesión Ordinaria 69 26 de agosto del 2025",
+                "title": "[PDF] Acta 101 Sesión Ordinaria 69 26 de agosto del 2025",
+                "date": "2026-01-28T00:00:00",
+                "url": "https://escazu.go.cr/wp-content/uploads/2026/01/Acta-101-25-Ord.-69-25-26-08-2025.pdf",
+                "cited_for": "regulatory-landscape"
+              },
+              {
+                "org": "Accepting Payments in Costa Rica: PSPs, Compliance & Fees",
+                "title": "Accepting Payments in Costa Rica: PSPs, Compliance & Fees",
+                "date": "2026-01-26T00:00:00",
+                "url": "https://payatlas.com/countries/costa-rica-cr",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "Reglamento a la Ley Reguladora de la Propiedad en Condominio",
+                "title": "Reglamento a la Ley Reguladora de la Propiedad en Condominio",
+                "date": "2026-01-23T00:00:00",
+                "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?param1=NRTC&nValor1=1&nValor2=105605&nValor3=148266&strTipM=TC",
+                "cited_for": "commercial-dynamics, ia6-foreign-ownership-and-zmt-specifics, regulatory-landscape"
+              },
+              {
+                "org": "La Gaceta - Imprenta Nacional",
+                "title": "La Gaceta - Imprenta Nacional",
+                "date": "2026-01-22T00:00:00",
+                "url": "https://www.imprentanacional.go.cr/gaceta/?date=22%2F01%2F2026",
+                "cited_for": "regulatory-landscape"
+              },
+              {
+                "org": "[PDF] LA GACETA N° 129 de la fecha 02 06 2020 - Municipalidad de Escazú",
+                "title": "[PDF] LA GACETA N° 129 de la fecha 02 06 2020 - Municipalidad de Escazú",
+                "date": "2026-01-18T00:00:00",
+                "url": "https://escazu.go.cr/wp-content/uploads/2026/01/reglamento_de_becas_funcionarios_y_teletrabajo.pdf",
+                "cited_for": "ia6-foreign-ownership-and-zmt-specifics, regulatory-landscape"
+              },
+              {
+                "org": "[PDF] Acta 67 Sesión Ordinaria 45 11 de marzo del 2025",
+                "title": "[PDF] Acta 67 Sesión Ordinaria 45 11 de marzo del 2025",
+                "date": "2026-01-17T00:00:00",
+                "url": "https://escazu.go.cr/wp-content/uploads/2026/01/Acta-67-25-Ord.-45-25-11-03-2025.pdf",
+                "cited_for": "commercial-dynamics"
+              },
+              {
+                "org": "[PDF] LA GACETA N° 69 de la fecha 18 04 2022 - Municipalidad de Escazú",
+                "title": "[PDF] LA GACETA N° 69 de la fecha 18 04 2022 - Municipalidad de Escazú",
+                "date": "2026-01-17T00:00:00",
+                "url": "https://escazu.go.cr/wp-content/uploads/2026/01/reglamento_de_adquisicion_de_terrenos_de_la_municipalidad_de_escazu.pdf",
+                "cited_for": "regulatory-landscape"
+              },
+              {
+                "org": "[PDF] Texto Completo Norma 9047",
+                "title": "[PDF] Texto Completo Norma 9047",
+                "date": "2026-01-17T00:00:00",
+                "url": "https://escazu.go.cr/wp-content/uploads/2026/01/ley_9047_regulacion_y_comercializacion_de_bebidas_con_contenido_alcoholico.pdf",
+                "cited_for": "regulatory-landscape"
+              },
+              {
+                "org": "[PDF] reglamenta archivo central - Municipalidad de Escazú",
+                "title": "[PDF] reglamenta archivo central - Municipalidad de Escazú",
+                "date": "2026-01-17T00:00:00",
+                "url": "https://escazu.go.cr/wp-content/uploads/2026/01/reglamento_auditoria_interna_escazu.pdf",
+                "cited_for": "regulatory-landscape"
+              },
+              {
+                "org": "[PDF] Auditoría Operativa sobre el trámite de permisos de construcción.",
+                "title": "[PDF] Auditoría Operativa sobre el trámite de permisos de construcción.",
+                "date": "2026-01-17T00:00:00",
+                "url": "https://escazu.go.cr/wp-content/uploads/2026/01/inf-ai-25-2020_ao_permisos_de_construccion.pdf",
+                "cited_for": "regulatory-landscape"
+              },
+              {
+                "org": "[PDF] municipalidad de escazú",
+                "title": "[PDF] municipalidad de escazú",
+                "date": "2026-01-17T00:00:00",
+                "url": "https://escazu.go.cr/wp-content/uploads/2026/01/reglamento_de_licencias_municipales.pdf",
+                "cited_for": "regulatory-landscape"
+              },
+              {
+                "org": "Solicitudes de Permiso de Construcción - Municipalidad de Liberia",
+                "title": "Solicitudes de Permiso de Construcción - Municipalidad de Liberia",
+                "date": "2026-01-16T00:00:00",
+                "url": "https://www.muniliberia.go.cr/muni/comunicado/2/solicitudes-de-permiso-de-construccion",
+                "cited_for": "regulatory-landscape"
+              },
+              {
+                "org": "proyecto turístico Ocean-Cove está paralizado desde 2024 - Teletica",
+                "title": "proyecto turístico Ocean-Cove está paralizado desde 2024 - Teletica",
+                "date": "2026-01-15T00:00:00",
+                "url": "https://www.teletica.com/nacional/municipalidad-de-quepos-y-sinac-confirman-proyecto-turistico-ocean-cove-esta-paralizado-desde-2024_400543",
+                "cited_for": "disruption-history"
+              },
+              {
+                "org": "Texto completo - Sistema Costarricense de Información Jurídica",
+                "title": "Texto completo - Sistema Costarricense de Información Jurídica",
+                "date": "2026-01-15T00:00:00",
+                "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?param1=NRTC&nValor1=1&nValor2=83136&nValor3=148337&strTipM=TC",
+                "cited_for": "regulatory-landscape"
+              }
+            ]
+          },
+          {
+            "name": "Legal / Tax Firms",
+            "items": [
+              {
+                "org": "nueva regulación del poder especial en asambleas y juntas de SRL ...",
+                "title": "nueva regulación del poder especial en asambleas y juntas de SRL ...",
+                "date": "2026-03-09T00:00:00",
+                "url": "https://www.globalex.cr/post/ley-10840-reforma-codigo-comercio-representacion-asambleas",
+                "cited_for": "ia6-foreign-ownership-and-zmt-specifics"
+              },
+              {
+                "org": "Remapping travel with agentic AI - McKinsey",
+                "title": "Remapping travel with agentic AI - McKinsey",
+                "date": "2025-09-16T00:00:00",
+                "url": "https://www.mckinsey.com/industries/travel/our-insights/remapping-travel-with-agentic-ai",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "[PDF] Doing Business in Latin America 2025 - 2026 | EY",
+                "title": "[PDF] Doing Business in Latin America 2025 - 2026 | EY",
+                "date": "2025-08-31T00:00:00",
+                "url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/latam/insights/doing-business-latam/documents/ey-doing-business-latam-2025-2026.pdf",
+                "cited_for": "commercial-dynamics"
+              },
+              {
+                "org": "Hotel Management & Transactions 2025 - Costa Rica",
+                "title": "Hotel Management & Transactions 2025 - Costa Rica",
+                "date": "2025-06-25T00:00:00",
+                "url": "https://practiceguides.chambers.com/practice-guides/hotel-management-transactions-2025/costa-rica/trends-and-developments",
+                "cited_for": "counter-evidence, ia4-ia7-tier-structure-and-economics, ia9-capital-structures-and-exit"
+              }
+            ]
+          },
+          {
+            "name": "Industry Analysts",
+            "items": [
+              {
+                "org": "What You Need to Know Before Buying Real Estate",
+                "title": "What You Need to Know Before Buying Real Estate",
+                "date": "2026-04-27T17:38:29",
+                "url": "https://www.2costaricarealestate.com/posts/relocating-to-costa-rica-real-estate-everything-you-need-to-know-before-moving-in",
+                "cited_for": "commercial-dynamics"
+              },
+              {
+                "org": "Properties in Costa Rica Blog",
+                "title": "Properties in Costa Rica Blog",
+                "date": "2026-04-22T00:00:00",
+                "url": "https://www.propertiesincostarica.com/blog/",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "Costa Rica's Natural History: What Wellness Travelers Should Know ...",
+                "title": "Costa Rica's Natural History: What Wellness Travelers Should Know ...",
+                "date": "2026-04-10T00:00:00",
+                "url": "https://costaricawellnessdirectory.com/costa-rica-natural-history-wellness-travelers/",
+                "cited_for": "ia8-ia5-demand-structure-and-tulum-migration"
+              },
+              {
+                "org": "Global Wellness Economy: Country Rankings (2019-2024 data)",
+                "title": "Global Wellness Economy: Country Rankings (2019-2024 data)",
+                "date": "2026-01-28T00:00:00",
+                "url": "https://globalwellnessinstitute.org/industry-research/2026-the-global-wellness-economy-country-rankings/",
+                "cited_for": "ia8-ia5-demand-structure-and-tulum-migration"
+              },
+              {
+                "org": "Building a Luxury Villa in Arenal, Costa Rica: 9.5-Month Timeline ...",
+                "title": "Building a Luxury Villa in Arenal, Costa Rica: 9.5-Month Timeline ...",
+                "date": "2026-01-23T00:00:00",
+                "url": "https://www.investingcostarica.com/construction/building-a-luxury-villa-in-arenal-costa-rica/",
+                "cited_for": "ia4-ia7-tier-structure-and-economics"
+              },
+              {
+                "org": "Santa Teresa Rises to Trendy Costa Rica Beach Destination",
+                "title": "Santa Teresa Rises to Trendy Costa Rica Beach Destination",
+                "date": "2026-01-10T00:00:00",
+                "url": "https://enchanting-costarica.com/ecotourism/santa-teresa-rises-to-trendy-costa-rica-beach-destination/",
+                "cited_for": "ia10-competitive-moats-and-new-entrants"
+              },
+              {
+                "org": "Costa Rica tourism trends 2026 with Casey Halloran",
+                "title": "Costa Rica tourism trends 2026 with Casey Halloran",
+                "date": "2026-01-08T00:00:00",
+                "url": "https://www.investingcostarica.com/podcast/luxury-travel-real-assets-and-investing-in-costa-rica-in-2026-with-namu-travel-ceo-casey-halloran/",
+                "cited_for": "counter-evidence"
+              },
+              {
+                "org": "HVS Global Perspectives – Year-End 2025",
+                "title": "HVS Global Perspectives – Year-End 2025",
+                "date": "2025-12-23T00:00:00",
+                "url": "https://www.hvs.com/article/10347-hvs-global-perspectives-year-end-2025",
+                "cited_for": "ia4-ia7-tier-structure-and-economics, ia9-capital-structures-and-exit"
+              },
+              {
+                "org": "A Roundtable Discussion with Caribbean and Latin American ...",
+                "title": "A Roundtable Discussion with Caribbean and Latin American ...",
+                "date": "2025-12-16T00:00:00",
+                "url": "https://www.cbre.com/insights/articles/a-roundtable-discussion-with-caribbean-and-latin-american-lodging-experts",
+                "cited_for": "ia9-capital-structures-and-exit"
+              },
+              {
+                "org": "Maritime Zone Land in Costa Rica - 2Costa Rica Real Estate",
+                "title": "Maritime Zone Land in Costa Rica - 2Costa Rica Real Estate",
+                "date": "2025-12-15T00:00:00",
+                "url": "https://www.2costaricarealestate.com/posts/maritime-zone-land-in-costa-rica-what-every-beachfront-buyer-needs-to-know",
+                "cited_for": "disruption-history"
+              },
+              {
+                "org": "Stay at Origins Floral Lodge | Costa Rica Experts",
+                "title": "Stay at Origins Floral Lodge | Costa Rica Experts",
+                "date": "2025-12-13T00:00:00",
+                "url": "https://costaricaexperts.com/hotels/origins-luxury-lodge/",
+                "cited_for": "ia10-competitive-moats-and-new-entrants"
+              },
+              {
+                "org": "The Ultimate Travel Guide to Costa Rica",
+                "title": "The Ultimate Travel Guide to Costa Rica",
+                "date": "2025-12-12T00:00:00",
+                "url": "https://www.travelandbrew.com/journal/costaricatravelguide",
+                "cited_for": "ia10-competitive-moats-and-new-entrants"
+              },
+              {
+                "org": "Digital Nomads in Costa Rica: The Best Towns for Remote Workers",
+                "title": "Digital Nomads in Costa Rica: The Best Towns for Remote Workers",
+                "date": "2025-11-20T00:00:00",
+                "url": "https://www.coldwellbankercostarica.com/article/digital-nomads-in-costa-rica-the-best-towns-for-remote-workers",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "Understanding Costa Rica Maritime Zone Law, Beachfront",
+                "title": "Understanding Costa Rica Maritime Zone Law, Beachfront",
+                "date": "2025-11-15T00:00:00",
+                "url": "https://www.exclusivehomescostarica.com/posts/navigating-the-waters-understanding-costa-rica-maritime-zone-law-beachfront-property",
+                "cited_for": "disruption-history"
+              },
+              {
+                "org": "Sonesta Jacó: The Unfinished Project That Defies Costa Rican Time",
+                "title": "Sonesta Jacó: The Unfinished Project That Defies Costa Rican Time",
+                "date": "2025-11-07T00:00:00",
+                "url": "https://thecostaricanews.com/sonesta-jaco-the-unfinished-project-that-defies-costa-rican-time/",
+                "cited_for": "disruption-history"
+              },
+              {
+                "org": "Guanacaste, Costa Rica: Regional Snapshot",
+                "title": "Guanacaste, Costa Rica: Regional Snapshot",
+                "date": "2025-10-30T00:00:00",
+                "url": "https://www.twoweeksincostarica.com/guanacaste-regional-snapshot/",
+                "cited_for": "counter-evidence"
+              },
+              {
+                "org": "Our Travel Agency - Two Weeks in Costa Rica",
+                "title": "Our Travel Agency - Two Weeks in Costa Rica",
+                "date": "2025-10-02T00:00:00",
+                "url": "https://www.twoweeksincostarica.com/our-travel-agency/",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "H2 2025 Global Hotel Outlook | CBRE",
+                "title": "H2 2025 Global Hotel Outlook | CBRE",
+                "date": "2025-10-02T00:00:00",
+                "url": "https://www.cbre.com/insights/reports/h2-2025-global-hotel-outlook",
+                "cited_for": "ia9-capital-structures-and-exit"
+              },
+              {
+                "org": "Costa Rica hotel performance update | STR",
+                "title": "Costa Rica hotel performance update | STR",
+                "date": "2025-09-18T00:00:00",
+                "url": "https://www.costar.com/products/str-benchmark/resources/data-insights-blog/costa-rica-hotel-performance-update",
+                "cited_for": "ia4-ia7-tier-structure-and-economics"
+              },
+              {
+                "org": "Costa Rica Real Estate Financing: US Mortgages with Ben Pack",
+                "title": "Costa Rica Real Estate Financing: US Mortgages with Ben Pack",
+                "date": "2025-08-19T00:00:00",
+                "url": "https://www.investingcostarica.com/podcast/us-style-loans-being-offered-in-costa-rica-with-volo-loans/",
+                "cited_for": "ia4-ia7-tier-structure-and-economics"
+              },
+              {
+                "org": "200hr Therapeutic Yoga Teacher Training Costa Rica",
+                "title": "200hr Therapeutic Yoga Teacher Training Costa Rica",
+                "date": "2025-05-31T00:00:00",
+                "url": "https://somayogainstitute.com/200-costarica",
+                "cited_for": "ia10-competitive-moats-and-new-entrants"
+              },
+              {
+                "org": "Hannah McManus - HVS",
+                "title": "Hannah McManus - HVS",
+                "date": "2025-05-23T00:00:00",
+                "url": "https://www.hvs.com/personnel/1995-Hannah-McManus",
+                "cited_for": "ia9-capital-structures-and-exit"
+              },
+              {
+                "org": "Andrew Dickey | Senior Managing Director, Hotels and Hospitality",
+                "title": "Andrew Dickey | Senior Managing Director, Hotels and Hospitality",
+                "date": "2025-05-16T00:00:00",
+                "url": "https://www.jll.com/en-us/people/bio-broker/andrew.dickey",
+                "cited_for": "ia4-ia7-tier-structure-and-economics"
+              },
+              {
+                "org": "Costa Rica Tourism Trends & Investment Analysis with James Neale",
+                "title": "Costa Rica Tourism Trends & Investment Analysis with James Neale",
+                "date": "2025-05-13T00:00:00",
+                "url": "https://www.investingcostarica.com/podcast/costa-rica-by-the-data-trends-truths-and-takeaways/",
+                "cited_for": "counter-evidence"
+              },
+              {
+                "org": "(unattributed)",
+                "title": "",
+                "date": "undated",
+                "url": "https://globalwellnessinstitute.org/wp-content/uploads/2024/11/GWI_WellnessTourism2024_Global.pdf",
+                "cited_for": "ia8-ia5-demand-structure-and-tulum-migration"
+              }
+            ]
+          },
+          {
+            "name": "Trade Press — Hospitality",
+            "items": [
+              {
+                "org": "AI for Hospitality: Reclaim High-Value Work - Infor",
+                "title": "AI for Hospitality: Reclaim High-Value Work - Infor",
+                "date": "2026-04-29T17:47:05",
+                "url": "https://www.infor.com/en-au/blog/hospitality-ai-task-decomposition",
+                "cited_for": "ia9-capital-structures-and-exit"
+              },
+              {
+                "org": "GreenTree Hospitality Group Ltd. Reports Fourth Quarter and Fiscal ...",
+                "title": "GreenTree Hospitality Group Ltd. Reports Fourth Quarter and Fiscal ...",
+                "date": "2026-04-29T17:39:11",
+                "url": "https://www.prnewswire.com/news-releases/greentree-hospitality-group-ltd-reports-fourth-quarter-and-fiscal-year-2025-financial-results-302757311.html",
+                "cited_for": "disruption-history"
+              },
+              {
+                "org": "Costa Rica tourism 2026: why self-drive is outpacing organized tours",
+                "title": "Costa Rica tourism 2026: why self-drive is outpacing organized tours",
+                "date": "2026-04-27T17:37:57",
+                "url": "https://www.breakingtravelnews.com/news/article/costa-rica-tourism-2026-why-self-drive-is-outpacing-organized-tours/",
+                "cited_for": "commercial-dynamics"
+              },
+              {
+                "org": "SiteMinder unveils AI hotel distribution infrastructure",
+                "title": "SiteMinder unveils AI hotel distribution infrastructure",
+                "date": "2026-04-15T00:00:00",
+                "url": "https://www.hotelmanagement-network.com/news/siteminder-ai-hotel-distribution/",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "GMH Hotels: Are Hotels Losing the Booking Battle to AI? - Skift",
+                "title": "GMH Hotels: Are Hotels Losing the Booking Battle to AI? - Skift",
+                "date": "2026-04-15T00:00:00",
+                "url": "https://skift.com/2026/04/15/gmh-hotels-are-hotels-losing-the-booking-battle-to-ai/",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "Reduce OTA Dependence: Save 15-25% on Hotel Commissions",
+                "title": "Reduce OTA Dependence: Save 15-25% on Hotel Commissions",
+                "date": "2026-03-31T00:00:00",
+                "url": "https://www.teacode.io/blog/reducing-ota-dependence-in-hospitality",
+                "cited_for": "commercial-dynamics"
+              },
+              {
+                "org": "Morocco - 6th Edition Hospitality Innovation Summit",
+                "title": "Morocco - 6th Edition Hospitality Innovation Summit",
+                "date": "2026-03-16T00:00:00",
+                "url": "https://hospitalityinnovationsummit.com/morocco/",
+                "cited_for": "ia9-capital-structures-and-exit"
+              },
+              {
+                "org": "Mews reinforces position as hospitality's operating system",
+                "title": "Mews reinforces position as hospitality's operating system",
+                "date": "2026-02-23T00:00:00",
+                "url": "https://www.prnewswire.com/news-releases/mews-reinforces-position-as-hospitalitys-operating-system-302694559.html",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "Amano Group adopts Mews platform across entire hotel portfolio",
+                "title": "Amano Group adopts Mews platform across entire hotel portfolio",
+                "date": "2026-02-04T00:00:00",
+                "url": "https://www.hotelmanagement-network.com/news/amano-group-adopts-mews/",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "Kasa takes over Mint House properties to expand accommodation ...",
+                "title": "Kasa takes over Mint House properties to expand accommodation ...",
+                "date": "2026-01-14T00:00:00",
+                "url": "https://www.phocuswire.com/kasa-mint-house-combine-hotel-apartment-platforms",
+                "cited_for": "disruption-history"
+              },
+              {
+                "org": "Hospitality Property Management Software (PMS) Market Size, Growth",
+                "title": "Hospitality Property Management Software (PMS) Market Size, Growth",
+                "date": "2026-01-13T00:00:00",
+                "url": "https://www.marketgrowthreports.com/market-reports/hospitality-property-management-software-pms-market-114325",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "The Backdoor Conquest: How Expedia is Breaking Booking.com's ...",
+                "title": "The Backdoor Conquest: How Expedia is Breaking Booking.com's ...",
+                "date": "2026-01-12T00:00:00",
+                "url": "http://whiteskyhospitality.com/the-backdoor-conquest-how-expedia-is-breaking-booking-coms-european-monopoly/",
+                "cited_for": "commercial-dynamics"
+              },
+              {
+                "org": "Sustainable Hotel and Resort Development in the Caribbean",
+                "title": "Sustainable Hotel and Resort Development in the Caribbean",
+                "date": "2026-01-07T00:00:00",
+                "url": "https://tourismanalytics.com/expertinsights/sustainable-hotel-and-resort-development-in-the-caribbean-strategies-for-a-resilient-hospitality-future",
+                "cited_for": "ia9-capital-structures-and-exit"
+              },
+              {
+                "org": "The Hotel Owner's Playbook: Navigating Franchise Agreements in a ...",
+                "title": "The Hotel Owner's Playbook: Navigating Franchise Agreements in a ...",
+                "date": "2026-01-05T00:00:00",
+                "url": "https://whiteskyhospitality.com/the-hotel-owners-playbook-navigating-franchise-agreements-in-a-consolidating-market/",
+                "cited_for": "commercial-dynamics"
+              },
+              {
+                "org": "Hotel PMS Market - Property Management Software - Share ...",
+                "title": "Hotel PMS Market - Property Management Software - Share ...",
+                "date": "2026-01-05T00:00:00",
+                "url": "https://www.mordorintelligence.com/industry-reports/hospitality-property-management-software-market",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "Why 2026 Is the Breakthrough Year for Cloud PMS Adoption in ...",
+                "title": "Why 2026 Is the Breakthrough Year for Cloud PMS Adoption in ...",
+                "date": "2025-12-10T00:00:00",
+                "url": "https://www.mycloudhospitality.com/blog/why-2026-is-the-breakthrough-year-for-cloud-pms-adoption-in-hospitality",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "The Ancillary Revenue Revolution: How IHG and Accor are ...",
+                "title": "The Ancillary Revenue Revolution: How IHG and Accor are ...",
+                "date": "2025-12-08T00:00:00",
+                "url": "https://whiteskyhospitality.com/the-ancillary-revenue-revolution-how-ihg-and-accor-are-rewriting-hotel-economics/",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "The Future of Hotel Loyalty: Personalization, Direct Booking, and the ...",
+                "title": "The Future of Hotel Loyalty: Personalization, Direct Booking, and the ...",
+                "date": "2025-11-20T00:00:00",
+                "url": "https://research.skift.com/reports/the-future-of-hotel-loyalty-personalization-direct-booking-and-the-rise-of-experience-led-travel/",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "Agentic AI for Hotels: Mews outlines the future of intelligent hospitality",
+                "title": "Agentic AI for Hotels: Mews outlines the future of intelligent hospitality",
+                "date": "2025-11-13T00:00:00",
+                "url": "https://www.prnewswire.com/news-releases/agentic-ai-for-hotels-mews-outlines-the-future-of-intelligent-hospitality-302613719.html",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "Where are they now? Revisiting the Hot 25 Travel Startups for 2025",
+                "title": "Where are they now? Revisiting the Hot 25 Travel Startups for 2025",
+                "date": "2025-11-03T00:00:00",
+                "url": "https://www.phocuswire.com/hot-25-travel-startups-2025-revisit",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "CBRE lowers 2025 RevPAR growth to 0.1% - Hotel Management",
+                "title": "CBRE lowers 2025 RevPAR growth to 0.1% - Hotel Management",
+                "date": "2025-10-08T00:00:00",
+                "url": "https://www.hotelmanagement.net/data-trends/cbre-lowers-2025-revpar-growth-01",
+                "cited_for": "ia9-capital-structures-and-exit"
+              },
+              {
+                "org": "Generation Next: The Risk Takers - Skift",
+                "title": "Generation Next: The Risk Takers - Skift",
+                "date": "2025-09-04T00:00:00",
+                "url": "https://skift.com/2025/09/04/generation-next-the-risk-takers/",
+                "cited_for": "ia8-ia5-demand-structure-and-tulum-migration"
+              },
+              {
+                "org": "Hospitality bifurcates as luxury outpaces lower tiers - RSM US",
+                "title": "Hospitality bifurcates as luxury outpaces lower tiers - RSM US",
+                "date": "2025-08-28T00:00:00",
+                "url": "https://rsmus.com/insights/industries/real-estate/hospitality-bifurcates-as-luxury-outpaces-lower-tiers.html",
+                "cited_for": "ia4-ia7-tier-structure-and-economics"
+              },
+              {
+                "org": "Booking.com and hotels increasingly go their separate ways",
+                "title": "Booking.com and hotels increasingly go their separate ways",
+                "date": "2025-08-27T00:00:00",
+                "url": "https://www.phocuswire.com/hotels-booking-increasingly-go-separate-ways",
+                "cited_for": "commercial-dynamics"
+              },
+              {
+                "org": "Every One of Hyatt's Brands, Explained (2025) - Skift",
+                "title": "Every One of Hyatt's Brands, Explained (2025) - Skift",
+                "date": "2025-06-22T00:00:00",
+                "url": "https://skift.com/2025/06/22/hyatts-brands-explained/",
+                "cited_for": "ia8-ia5-demand-structure-and-tulum-migration"
+              },
+              {
+                "org": "Transforming hospitality: How SaaS platforms are ushering in a new ...",
+                "title": "Transforming hospitality: How SaaS platforms are ushering in a new ...",
+                "date": "2025-05-06T00:00:00",
+                "url": "https://stripe.com/sessions/2025/transforming-hospitality",
+                "cited_for": "technology-systems"
+              }
+            ]
+          },
+          {
+            "name": "Hospitality Technology / Platforms",
+            "items": [
+              {
+                "org": "Cloudbeds Partners with Dingus to Unify Hotel Distribution",
+                "title": "Cloudbeds Partners with Dingus to Unify Hotel Distribution",
+                "date": "2026-04-29T17:38:12",
+                "url": "https://www.cloudbeds.com/articles/dingus/",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "Booking.com data breach: what you need to know - Which?",
+                "title": "Booking.com data breach: what you need to know - Which?",
+                "date": "2026-04-14T00:00:00",
+                "url": "https://www.which.co.uk/news/article/booking.com-data-breach-what-you-need-to-know-a55ev0f8wyAW",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "Reservations by Country Report - Cloudbeds",
+                "title": "Reservations by Country Report - Cloudbeds",
+                "date": "2026-04-13T00:00:00",
+                "url": "https://myfrontdesk.cloudbeds.com/hc/en-us/articles/360001993493-Reservations-by-Country-Report",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "The Top 7 Cloudbeds Alternatives to Know in 2026 - eviivo",
+                "title": "The Top 7 Cloudbeds Alternatives to Know in 2026 - eviivo",
+                "date": "2026-03-12T00:00:00",
+                "url": "https://eviivo.com/trade-secrets/best-cloudbeds-alternatives/",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "Cloudbeds vs. Mews - Meet the smarter Mews alternative",
+                "title": "Cloudbeds vs. Mews - Meet the smarter Mews alternative",
+                "date": "2026-03-02T00:00:00",
+                "url": "https://www.cloudbeds.com/compare/mews/",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "Cloudbeds Payments terminals overview",
+                "title": "Cloudbeds Payments terminals overview",
+                "date": "2026-02-02T00:00:00",
+                "url": "https://myfrontdesk.cloudbeds.com/hc/en-us/articles/1260803682969-Cloudbeds-Payments-terminals-overview",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "Cloudbeds unveils inaugural Cloudbeds Collection",
+                "title": "Cloudbeds unveils inaugural Cloudbeds Collection",
+                "date": "2026-01-29T00:00:00",
+                "url": "https://www.cloudbeds.com/articles/collection-launch/",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "PayU Latam - Connection Guide - Cloudbeds",
+                "title": "PayU Latam - Connection Guide - Cloudbeds",
+                "date": "2026-01-08T00:00:00",
+                "url": "https://myfrontdesk.cloudbeds.com/hc/en-us/articles/115004980568-PayU-Latam-Connection-Guide",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "Critical: Missing VAT/SII Reporting for MEWS POS \"Outlet\" Sales",
+                "title": "Critical: Missing VAT/SII Reporting for MEWS POS \"Outlet\" Sales",
+                "date": "2025-12-15T00:00:00",
+                "url": "https://community.mews.com/mews-pos-restaurant-operations-90/critical-missing-vat-sii-reporting-for-mews-pos-outlet-sales-2920",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "#1 Top-Rated Hotel Property Management System 2026 - Cloudbeds",
+                "title": "#1 Top-Rated Hotel Property Management System 2026 - Cloudbeds",
+                "date": "2025-11-04T00:00:00",
+                "url": "https://www.cloudbeds.com/property-management-system/",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "Apply for Cloudbeds Payments account - countries requirements",
+                "title": "Apply for Cloudbeds Payments account - countries requirements",
+                "date": "2025-10-23T00:00:00",
+                "url": "https://myfrontdesk.cloudbeds.com/hc/en-us/articles/18785525247899-Apply-for-Cloudbeds-Payments-account-countries-requirements",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "Cloudbeds Billing Portal - Payment Options for Your Account",
+                "title": "Cloudbeds Billing Portal - Payment Options for Your Account",
+                "date": "2025-10-22T00:00:00",
+                "url": "https://myfrontdesk.cloudbeds.com/hc/en-us/articles/218406958-Cloudbeds-Billing-Portal-Payment-Options-for-Your-Account",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "SiteMinder: We put you in demand.",
+                "title": "SiteMinder: We put you in demand.",
+                "date": "2025-09-15T00:00:00",
+                "url": "https://www.siteminder.com",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "How much does Airbnb charge hosts? - Resource Center",
+                "title": "How much does Airbnb charge hosts? - Resource Center",
+                "date": "2025-08-25T00:00:00",
+                "url": "https://www.airbnb.com/resources/hosting-homes/a/how-much-does-airbnb-charge-hosts-288",
+                "cited_for": "commercial-dynamics"
+              },
+              {
+                "org": "SiteMinder opens new office in Mexico",
+                "title": "SiteMinder opens new office in Mexico",
+                "date": "2025-08-12T00:00:00",
+                "url": "https://www.siteminder.com/news/siteminder-opens-new-office-in-mexico/",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "Soy Local Hotels - Customer Success - SiteMinder",
+                "title": "Soy Local Hotels - Customer Success - SiteMinder",
+                "date": "2025-08-11T00:00:00",
+                "url": "https://www.siteminder.com/case-studies/soy-local-hotels/",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "Tella Thera- Cloudbeds Customer Stories",
+                "title": "Tella Thera- Cloudbeds Customer Stories",
+                "date": "2025-07-15T00:00:00",
+                "url": "https://www.cloudbeds.com/customers/tella-thera/",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "Speak with sales - Mews",
+                "title": "Speak with sales - Mews",
+                "date": "2025-07-15T00:00:00",
+                "url": "https://www.mews.com/en/speak-with-sales",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "Scam alert: why you can't trust that 'Booking.com' message",
+                "title": "Scam alert: why you can't trust that 'Booking.com' message",
+                "date": "2025-07-09T00:00:00",
+                "url": "https://www.which.co.uk/news/article/why-you-cant-trust-that-booking.com-message-aNQwx7T2ltWs",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "Payment Processing FAQ - Cloudbeds",
+                "title": "Payment Processing FAQ - Cloudbeds",
+                "date": "2025-07-03T00:00:00",
+                "url": "https://myfrontdesk.cloudbeds.com/hc/en-us/articles/219139688-Payment-Processing-FAQ",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "Tarifas y comisiones de Booking.com: guía completa para anfitriones",
+                "title": "Tarifas y comisiones de Booking.com: guía completa para anfitriones",
+                "date": "2025-06-30T00:00:00",
+                "url": "https://www.siteminder.com/es/r/tarifas-de-booking/",
+                "cited_for": "commercial-dynamics"
+              },
+              {
+                "org": "Onefam Paralelo | One of the Most Recommended Hostels in AI",
+                "title": "Onefam Paralelo | One of the Most Recommended Hostels in AI",
+                "date": "2025-06-26T00:00:00",
+                "url": "https://www.cloudbeds.com/hotel-ai-recommendations/case-study/",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "Socialtel La Fortuna Reviews, Deals & Photos 2026 - Expedia.co.uk",
+                "title": "Socialtel La Fortuna Reviews, Deals & Photos 2026 - Expedia.co.uk",
+                "date": "2025-05-21T00:00:00",
+                "url": "https://www.expedia.co.uk/La-Fortuna-Hotels-Selina-La-Fortuna.h19237432.Hotel-Information",
+                "cited_for": "disruption-history"
+              },
+              {
+                "org": "External Payments - Mews Community",
+                "title": "External Payments - Mews Community",
+                "date": "2025-05-16T00:00:00",
+                "url": "https://community.mews.com/mews-payments-84/external-payments-2120",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "SiteMinder - App Store - Apple",
+                "title": "SiteMinder - App Store - Apple",
+                "date": "2025-04-11T00:00:00",
+                "url": "https://apps.apple.com/us/app/siteminder/id1665474460",
+                "cited_for": "technology-systems"
+              }
+            ]
+          },
+          {
+            "name": "Academic Research",
+            "items": [
+              {
+                "org": "[PDF] Academic Affairs Meeting Book - FSU Board of Trustees",
+                "title": "[PDF] Academic Affairs Meeting Book - FSU Board of Trustees",
+                "date": "2026-02-24T00:00:00",
+                "url": "https://trustees.fsu.edu/sites/default/files/meetings/20260225/Academic-Affairs-Meeting-Book-Web-2026-02-24.pdf",
+                "cited_for": "counter-evidence, disruption-history"
+              },
+              {
+                "org": "[PDF] Yield of the Years - School of Arts & Sciences - University of Rochester",
+                "title": "[PDF] Yield of the Years - School of Arts & Sciences - University of Rochester",
+                "date": "2025-11-15T00:00:00",
+                "url": "https://www.sas.rochester.edu/his/sites/campus-history/History/1969Perkins.pdf",
+                "cited_for": "commercial-dynamics"
+              },
+              {
+                "org": "Signaling Theory, Strategic Interaction, and Symbolic Capital1",
+                "title": "Signaling Theory, Strategic Interaction, and Symbolic Capital1",
+                "date": "2025-09-25T00:00:00",
+                "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/427115",
+                "cited_for": "disruption-history"
+              },
+              {
+                "org": "[PDF] The Supreme Court Narrows the Act of State Doctrine",
+                "title": "[PDF] The Supreme Court Narrows the Act of State Doctrine",
+                "date": "2025-08-08T00:00:00",
+                "url": "https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=2061&context=vjtl",
+                "cited_for": "regulatory-landscape"
+              },
+              {
+                "org": "Princeton welcomes the Class of 2029, which includes the largest ...",
+                "title": "Princeton welcomes the Class of 2029, which includes the largest ...",
+                "date": "2025-08-07T00:00:00",
+                "url": "https://www.princeton.edu/news/2025/08/07/princeton-enhances-financial-aid-again-it-welcomes-class-2029-which-includes",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "[PDF] CHRONICLE OF DIGITAL TRANSFORMATION THROUGH ...",
+                "title": "[PDF] CHRONICLE OF DIGITAL TRANSFORMATION THROUGH ...",
+                "date": "2025-07-21T00:00:00",
+                "url": "https://cdait.gatech.edu/sites/default/files/2025-07/Digital_Transformation_Through_IoT_Technologies_as-of-mid-July-2025.pdf",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "[PDF] Alumni @ Large - Digital Commons @ Colby",
+                "title": "[PDF] Alumni @ Large - Digital Commons @ Colby",
+                "date": "2025-06-15T00:00:00",
+                "url": "https://digitalcommons.colby.edu/cgi/viewcontent.cgi?article=1462&context=colbymagazine",
+                "cited_for": "commercial-dynamics"
+              },
+              {
+                "org": "[XML] https://snap.berkeley.edu/project/14165954",
+                "title": "[XML] https://snap.berkeley.edu/project/14165954",
+                "date": "2025-05-03T00:00:00",
+                "url": "https://snap.berkeley.edu/project/14165954",
+                "cited_for": "ia10-competitive-moats-and-new-entrants"
+              }
+            ]
+          },
+          {
+            "name": "CR Trade Associations",
+            "items": [
+              {
+                "org": "Search for organizations active in Border Management, Disaster ...",
+                "title": "Search for organizations active in Border Management, Disaster ...",
+                "date": "2026-04-19T00:00:00",
+                "url": "https://www.developmentaid.org/organizations/search?showAdvancedFilters=1&sortColumn=id.asc&organizationTypesV2=25&sectors=42%2C95%2C11%2C31&sectorsIsStrict=1",
+                "cited_for": "ia9-capital-structures-and-exit"
+              },
+              {
+                "org": "Categorías y requisitos de afiliación - Canatur",
+                "title": "Categorías y requisitos de afiliación - Canatur",
+                "date": "2026-03-04T00:00:00",
+                "url": "https://www.canatur.org/articulo/81/categorias-y-requisitos-de-afiliacion",
+                "cited_for": "regulatory-landscape"
+              },
+              {
+                "org": "Spotlight: How the Central American ICT market is evolving",
+                "title": "Spotlight: How the Central American ICT market is evolving",
+                "date": "2025-06-27T00:00:00",
+                "url": "https://www.bnamericas.com/en/features/spotlight-how-the-central-american-ict-market-is-evolving",
+                "cited_for": "technology-systems"
+              },
+              {
+                "org": "Testimony: No Justification for Renewing Costa Rican Import ...",
+                "title": "Testimony: No Justification for Renewing Costa Rican Import ...",
+                "date": "2025-05-20T00:00:00",
+                "url": "https://culturalpropertynews.org/testimony-no-justification-for-renewing-costa-rican-import-restrictions/",
+                "cited_for": "commercial-dynamics"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "sources": {
+    "source_map": {
+      "ICT, 2025": "https://www.ict.go.cr",
+      "EY Law / Chambers, 2024": "https://chambers.com/legal-rankings/costa-rica",
+      "CGR, 2023": "https://cgr.go.cr",
+      "BDO Costa Rica, 2025": "https://www.bdo.cr",
+      "SiteMinder, 2025": "https://www.siteminder.com",
+      "Airbnb Resource Center, 2025": "https://www.airbnb.com/resources/hosting-homes",
+      "AlixPartners, 2025": "https://www.alixpartners.com",
+      "Ley 6043, 1977": "https://www.pgrweb.go.cr",
+      "Ley 6758, 1982": "https://www.pgrweb.go.cr",
+      "Ley 7064, 1987": "https://www.pgrweb.go.cr",
+      "Ley 9416, 2016": "https://www.pgrweb.go.cr",
+      "Decreto 43898, 2022": "https://www.pgrweb.go.cr",
+      "MINAE, 2025": "https://www.minae.go.cr",
+      "AyA, 2025": "https://www.aya.go.cr",
+      "SETENA, 2025": "https://www.setena.go.cr",
+      "SINAC, 2025": "https://www.sinac.go.cr",
+      "MTSS, 2024": "https://www.mtss.go.cr",
+      "CCSS, 2026": "https://www.ccss.sa.cr",
+      "Cloudbeds, 2025": "https://www.cloudbeds.com",
+      "Skift, 2025": "https://skift.com",
+      "Hospitality Net, 2025": "https://www.hospitalitynet.org",
+      "Global Wellness Institute, 2024": "https://globalwellnessinstitute.org",
+      "STR / CoStar, 2024": "https://str.com",
+      "HVS Latin America, 2024": "https://www.hvs.com",
+      "JLL Hotels, 2024": "https://www.us.jll.com/en/industries/hotels-hospitality",
+      "CBRE Hotels, 2024": "https://www.cbre.com"
+    },
+    "categories": [
+      {
+        "name": "Government / Costa Rican Primary",
+        "items": [
+          {
+            "org": "Visado municipal - Gobierno Local de El Guarco",
+            "title": "Visado municipal - Gobierno Local de El Guarco",
+            "date": "2026-04-27T17:38:41",
+            "url": "https://muniguarco.go.cr/tramites/visado-municipal/",
+            "cited_for": "regulatory-landscape"
+          },
+          {
+            "org": "incop impulsa la revitalización del parque el muellero en puntarenas",
+            "title": "incop impulsa la revitalización del parque el muellero en puntarenas",
+            "date": "2026-04-22T00:00:00",
+            "url": "https://incop.go.cr/noticias-todas/",
+            "cited_for": "regulatory-landscape"
+          },
+          {
+            "org": "[PDF] ALCANCE NO 39 A LA GACETA NO 71",
+            "title": "[PDF] ALCANCE NO 39 A LA GACETA NO 71",
+            "date": "2026-04-20T00:00:00",
+            "url": "https://www.dnn.go.cr/sites/default/files/2026-04/ALCA39_20_04_2026.pdf",
+            "cited_for": "ia6-foreign-ownership-and-zmt-specifics, regulatory-landscape"
+          },
+          {
+            "org": "¿Qué debo hacer para solicitar un permiso de construcción?",
+            "title": "¿Qué debo hacer para solicitar un permiso de construcción?",
+            "date": "2026-04-19T00:00:00",
+            "url": "https://muniguarco.go.cr/helpie_faq/que-debo-hacer-para-solicitar-un-permiso-de-construccion/",
+            "cited_for": "regulatory-landscape"
+          },
+          {
+            "org": "Certificado uso del suelo - Gobierno Local de El Guarco",
+            "title": "Certificado uso del suelo - Gobierno Local de El Guarco",
+            "date": "2026-04-16T00:00:00",
+            "url": "https://muniguarco.go.cr/tramites/certificado-uso-suelo/",
+            "cited_for": "regulatory-landscape"
+          },
+          {
+            "org": "Construcción en Terreno propio - Portal-INVU",
+            "title": "Construcción en Terreno propio - Portal-INVU",
+            "date": "2026-04-10T00:00:00",
+            "url": "https://www.invu.go.cr/construccion-en-terreno-propio",
+            "cited_for": "regulatory-landscape"
+          },
+          {
+            "org": "Site Map - DFPI - CA.gov",
+            "title": "Site Map - DFPI - CA.gov",
+            "date": "2026-04-01T00:00:00",
+            "url": "https://dfpi.ca.gov/site-map/",
+            "cited_for": "commercial-dynamics"
+          },
+          {
+            "org": "[PDF] 2025 ANNUAL REPORT - SEC.gov",
+            "title": "[PDF] 2025 ANNUAL REPORT - SEC.gov",
+            "date": "2026-03-31T00:00:00",
+            "url": "https://www.sec.gov/Archives/edgar/data/73309/000119312526127746/d51842dars.pdf",
+            "cited_for": "disruption-history"
+          },
+          {
+            "org": "[PDF] real estate commission - DCCA Hawaii",
+            "title": "[PDF] real estate commission - DCCA Hawaii",
+            "date": "2026-03-28T00:00:00",
+            "url": "https://cca.hawaii.gov/wp-content/uploads/2026/03/rec_230825.pdf",
+            "cited_for": "disruption-history"
+          },
+          {
+            "org": "Texto completo - Sistema Costarricense de Información Jurídica",
+            "title": "Texto completo - Sistema Costarricense de Información Jurídica",
+            "date": "2026-03-25T00:00:00",
+            "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?param1=NRTC&nValor1=1&nValor2=106227&nValor3=149533&strTipM=TC",
+            "cited_for": "regulatory-landscape"
+          },
+          {
+            "org": "[PDF] TELECOMMUNICATIONS - Sutel",
+            "title": "[PDF] TELECOMMUNICATIONS - Sutel",
+            "date": "2026-03-20T00:00:00",
+            "url": "https://www.sutel.go.cr/sites/default/files/informe-estadisticas-del-sector-de-telecomunicaciones-2024--ingles-.pdf",
+            "cited_for": "regulatory-landscape, technology-systems"
+          },
+          {
+            "org": "[PDF] 1 ACTA ORDINARIA 05-2026, 03 FEBRERO 2026 CORPORACIÓN ...",
+            "title": "[PDF] 1 ACTA ORDINARIA 05-2026, 03 FEBRERO 2026 CORPORACIÓN ...",
+            "date": "2026-03-05T00:00:00",
+            "url": "https://www.munialajuela.go.cr/Documentos/OtherFiles/ORDINARIA_05-2026_03_FEBRERO_13-02-2026_07_50_36.pdf",
+            "cited_for": "regulatory-landscape"
+          },
+          {
+            "org": "[PDF] 2026 U.S. National Trade Estimate Report on Foreign Trade Barriers",
+            "title": "[PDF] 2026 U.S. National Trade Estimate Report on Foreign Trade Barriers",
+            "date": "2026-03-04T00:00:00",
+            "url": "https://ustr.gov/sites/default/files/files/Press/Releases/2026/National%20Trade%20Estimate%20Report%202026.pdf",
+            "cited_for": "regulatory-landscape"
+          },
+          {
+            "org": "[PDF] Anexos al Informe de Seguimiento del II Semestre 2025 sobre los ...",
+            "title": "[PDF] Anexos al Informe de Seguimiento del II Semestre 2025 sobre los ...",
+            "date": "2026-02-27T00:00:00",
+            "url": "https://www.hacienda.go.cr/docs/AnexosInformeGeneraldeSegdeCreditosExternosIISem2025.pdf",
+            "cited_for": "commercial-dynamics, regulatory-landscape"
+          },
+          {
+            "org": "[PDF] ESTADO DE NOTAS CONTABLES AL 31 DE DICIEMBRE DE 2025",
+            "title": "[PDF] ESTADO DE NOTAS CONTABLES AL 31 DE DICIEMBRE DE 2025",
+            "date": "2026-02-16T00:00:00",
+            "url": "https://www.imas.go.cr/sites/default/files/docs/Formato%20Notas%20Contables%20Institucionesv4%20diciembre%202025.pdf",
+            "cited_for": "commercial-dynamics"
+          },
+          {
+            "org": "Requisitos para Trámites - Municipalidad de San Rafael de Heredia",
+            "title": "Requisitos para Trámites - Municipalidad de San Rafael de Heredia",
+            "date": "2026-02-16T00:00:00",
+            "url": "https://www.munisrh.go.cr/requisitos-para-tramites/",
+            "cited_for": "regulatory-landscape"
+          },
+          {
+            "org": "[PDF] Acta 101 Sesión Ordinaria 69 26 de agosto del 2025",
+            "title": "[PDF] Acta 101 Sesión Ordinaria 69 26 de agosto del 2025",
+            "date": "2026-01-28T00:00:00",
+            "url": "https://escazu.go.cr/wp-content/uploads/2026/01/Acta-101-25-Ord.-69-25-26-08-2025.pdf",
+            "cited_for": "regulatory-landscape"
+          },
+          {
+            "org": "Accepting Payments in Costa Rica: PSPs, Compliance & Fees",
+            "title": "Accepting Payments in Costa Rica: PSPs, Compliance & Fees",
+            "date": "2026-01-26T00:00:00",
+            "url": "https://payatlas.com/countries/costa-rica-cr",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "Reglamento a la Ley Reguladora de la Propiedad en Condominio",
+            "title": "Reglamento a la Ley Reguladora de la Propiedad en Condominio",
+            "date": "2026-01-23T00:00:00",
+            "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?param1=NRTC&nValor1=1&nValor2=105605&nValor3=148266&strTipM=TC",
+            "cited_for": "commercial-dynamics, ia6-foreign-ownership-and-zmt-specifics, regulatory-landscape"
+          },
+          {
+            "org": "La Gaceta - Imprenta Nacional",
+            "title": "La Gaceta - Imprenta Nacional",
+            "date": "2026-01-22T00:00:00",
+            "url": "https://www.imprentanacional.go.cr/gaceta/?date=22%2F01%2F2026",
+            "cited_for": "regulatory-landscape"
+          },
+          {
+            "org": "[PDF] LA GACETA N° 129 de la fecha 02 06 2020 - Municipalidad de Escazú",
+            "title": "[PDF] LA GACETA N° 129 de la fecha 02 06 2020 - Municipalidad de Escazú",
+            "date": "2026-01-18T00:00:00",
+            "url": "https://escazu.go.cr/wp-content/uploads/2026/01/reglamento_de_becas_funcionarios_y_teletrabajo.pdf",
+            "cited_for": "ia6-foreign-ownership-and-zmt-specifics, regulatory-landscape"
+          },
+          {
+            "org": "[PDF] Acta 67 Sesión Ordinaria 45 11 de marzo del 2025",
+            "title": "[PDF] Acta 67 Sesión Ordinaria 45 11 de marzo del 2025",
+            "date": "2026-01-17T00:00:00",
+            "url": "https://escazu.go.cr/wp-content/uploads/2026/01/Acta-67-25-Ord.-45-25-11-03-2025.pdf",
+            "cited_for": "commercial-dynamics"
+          },
+          {
+            "org": "[PDF] LA GACETA N° 69 de la fecha 18 04 2022 - Municipalidad de Escazú",
+            "title": "[PDF] LA GACETA N° 69 de la fecha 18 04 2022 - Municipalidad de Escazú",
+            "date": "2026-01-17T00:00:00",
+            "url": "https://escazu.go.cr/wp-content/uploads/2026/01/reglamento_de_adquisicion_de_terrenos_de_la_municipalidad_de_escazu.pdf",
+            "cited_for": "regulatory-landscape"
+          },
+          {
+            "org": "[PDF] Texto Completo Norma 9047",
+            "title": "[PDF] Texto Completo Norma 9047",
+            "date": "2026-01-17T00:00:00",
+            "url": "https://escazu.go.cr/wp-content/uploads/2026/01/ley_9047_regulacion_y_comercializacion_de_bebidas_con_contenido_alcoholico.pdf",
+            "cited_for": "regulatory-landscape"
+          },
+          {
+            "org": "[PDF] reglamenta archivo central - Municipalidad de Escazú",
+            "title": "[PDF] reglamenta archivo central - Municipalidad de Escazú",
+            "date": "2026-01-17T00:00:00",
+            "url": "https://escazu.go.cr/wp-content/uploads/2026/01/reglamento_auditoria_interna_escazu.pdf",
+            "cited_for": "regulatory-landscape"
+          },
+          {
+            "org": "[PDF] Auditoría Operativa sobre el trámite de permisos de construcción.",
+            "title": "[PDF] Auditoría Operativa sobre el trámite de permisos de construcción.",
+            "date": "2026-01-17T00:00:00",
+            "url": "https://escazu.go.cr/wp-content/uploads/2026/01/inf-ai-25-2020_ao_permisos_de_construccion.pdf",
+            "cited_for": "regulatory-landscape"
+          },
+          {
+            "org": "[PDF] municipalidad de escazú",
+            "title": "[PDF] municipalidad de escazú",
+            "date": "2026-01-17T00:00:00",
+            "url": "https://escazu.go.cr/wp-content/uploads/2026/01/reglamento_de_licencias_municipales.pdf",
+            "cited_for": "regulatory-landscape"
+          },
+          {
+            "org": "Solicitudes de Permiso de Construcción - Municipalidad de Liberia",
+            "title": "Solicitudes de Permiso de Construcción - Municipalidad de Liberia",
+            "date": "2026-01-16T00:00:00",
+            "url": "https://www.muniliberia.go.cr/muni/comunicado/2/solicitudes-de-permiso-de-construccion",
+            "cited_for": "regulatory-landscape"
+          },
+          {
+            "org": "proyecto turístico Ocean-Cove está paralizado desde 2024 - Teletica",
+            "title": "proyecto turístico Ocean-Cove está paralizado desde 2024 - Teletica",
+            "date": "2026-01-15T00:00:00",
+            "url": "https://www.teletica.com/nacional/municipalidad-de-quepos-y-sinac-confirman-proyecto-turistico-ocean-cove-esta-paralizado-desde-2024_400543",
+            "cited_for": "disruption-history"
+          },
+          {
+            "org": "Texto completo - Sistema Costarricense de Información Jurídica",
+            "title": "Texto completo - Sistema Costarricense de Información Jurídica",
+            "date": "2026-01-15T00:00:00",
+            "url": "https://pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?param1=NRTC&nValor1=1&nValor2=83136&nValor3=148337&strTipM=TC",
+            "cited_for": "regulatory-landscape"
+          }
+        ]
+      },
+      {
+        "name": "Legal / Tax Firms",
+        "items": [
+          {
+            "org": "nueva regulación del poder especial en asambleas y juntas de SRL ...",
+            "title": "nueva regulación del poder especial en asambleas y juntas de SRL ...",
+            "date": "2026-03-09T00:00:00",
+            "url": "https://www.globalex.cr/post/ley-10840-reforma-codigo-comercio-representacion-asambleas",
+            "cited_for": "ia6-foreign-ownership-and-zmt-specifics"
+          },
+          {
+            "org": "Remapping travel with agentic AI - McKinsey",
+            "title": "Remapping travel with agentic AI - McKinsey",
+            "date": "2025-09-16T00:00:00",
+            "url": "https://www.mckinsey.com/industries/travel/our-insights/remapping-travel-with-agentic-ai",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "[PDF] Doing Business in Latin America 2025 - 2026 | EY",
+            "title": "[PDF] Doing Business in Latin America 2025 - 2026 | EY",
+            "date": "2025-08-31T00:00:00",
+            "url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/latam/insights/doing-business-latam/documents/ey-doing-business-latam-2025-2026.pdf",
+            "cited_for": "commercial-dynamics"
+          },
+          {
+            "org": "Hotel Management & Transactions 2025 - Costa Rica",
+            "title": "Hotel Management & Transactions 2025 - Costa Rica",
+            "date": "2025-06-25T00:00:00",
+            "url": "https://practiceguides.chambers.com/practice-guides/hotel-management-transactions-2025/costa-rica/trends-and-developments",
+            "cited_for": "counter-evidence, ia4-ia7-tier-structure-and-economics, ia9-capital-structures-and-exit"
+          }
+        ]
+      },
+      {
+        "name": "Industry Analysts",
+        "items": [
+          {
+            "org": "What You Need to Know Before Buying Real Estate",
+            "title": "What You Need to Know Before Buying Real Estate",
+            "date": "2026-04-27T17:38:29",
+            "url": "https://www.2costaricarealestate.com/posts/relocating-to-costa-rica-real-estate-everything-you-need-to-know-before-moving-in",
+            "cited_for": "commercial-dynamics"
+          },
+          {
+            "org": "Properties in Costa Rica Blog",
+            "title": "Properties in Costa Rica Blog",
+            "date": "2026-04-22T00:00:00",
+            "url": "https://www.propertiesincostarica.com/blog/",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "Costa Rica's Natural History: What Wellness Travelers Should Know ...",
+            "title": "Costa Rica's Natural History: What Wellness Travelers Should Know ...",
+            "date": "2026-04-10T00:00:00",
+            "url": "https://costaricawellnessdirectory.com/costa-rica-natural-history-wellness-travelers/",
+            "cited_for": "ia8-ia5-demand-structure-and-tulum-migration"
+          },
+          {
+            "org": "Global Wellness Economy: Country Rankings (2019-2024 data)",
+            "title": "Global Wellness Economy: Country Rankings (2019-2024 data)",
+            "date": "2026-01-28T00:00:00",
+            "url": "https://globalwellnessinstitute.org/industry-research/2026-the-global-wellness-economy-country-rankings/",
+            "cited_for": "ia8-ia5-demand-structure-and-tulum-migration"
+          },
+          {
+            "org": "Building a Luxury Villa in Arenal, Costa Rica: 9.5-Month Timeline ...",
+            "title": "Building a Luxury Villa in Arenal, Costa Rica: 9.5-Month Timeline ...",
+            "date": "2026-01-23T00:00:00",
+            "url": "https://www.investingcostarica.com/construction/building-a-luxury-villa-in-arenal-costa-rica/",
+            "cited_for": "ia4-ia7-tier-structure-and-economics"
+          },
+          {
+            "org": "Santa Teresa Rises to Trendy Costa Rica Beach Destination",
+            "title": "Santa Teresa Rises to Trendy Costa Rica Beach Destination",
+            "date": "2026-01-10T00:00:00",
+            "url": "https://enchanting-costarica.com/ecotourism/santa-teresa-rises-to-trendy-costa-rica-beach-destination/",
+            "cited_for": "ia10-competitive-moats-and-new-entrants"
+          },
+          {
+            "org": "Costa Rica tourism trends 2026 with Casey Halloran",
+            "title": "Costa Rica tourism trends 2026 with Casey Halloran",
+            "date": "2026-01-08T00:00:00",
+            "url": "https://www.investingcostarica.com/podcast/luxury-travel-real-assets-and-investing-in-costa-rica-in-2026-with-namu-travel-ceo-casey-halloran/",
+            "cited_for": "counter-evidence"
+          },
+          {
+            "org": "HVS Global Perspectives – Year-End 2025",
+            "title": "HVS Global Perspectives – Year-End 2025",
+            "date": "2025-12-23T00:00:00",
+            "url": "https://www.hvs.com/article/10347-hvs-global-perspectives-year-end-2025",
+            "cited_for": "ia4-ia7-tier-structure-and-economics, ia9-capital-structures-and-exit"
+          },
+          {
+            "org": "A Roundtable Discussion with Caribbean and Latin American ...",
+            "title": "A Roundtable Discussion with Caribbean and Latin American ...",
+            "date": "2025-12-16T00:00:00",
+            "url": "https://www.cbre.com/insights/articles/a-roundtable-discussion-with-caribbean-and-latin-american-lodging-experts",
+            "cited_for": "ia9-capital-structures-and-exit"
+          },
+          {
+            "org": "Maritime Zone Land in Costa Rica - 2Costa Rica Real Estate",
+            "title": "Maritime Zone Land in Costa Rica - 2Costa Rica Real Estate",
+            "date": "2025-12-15T00:00:00",
+            "url": "https://www.2costaricarealestate.com/posts/maritime-zone-land-in-costa-rica-what-every-beachfront-buyer-needs-to-know",
+            "cited_for": "disruption-history"
+          },
+          {
+            "org": "Stay at Origins Floral Lodge | Costa Rica Experts",
+            "title": "Stay at Origins Floral Lodge | Costa Rica Experts",
+            "date": "2025-12-13T00:00:00",
+            "url": "https://costaricaexperts.com/hotels/origins-luxury-lodge/",
+            "cited_for": "ia10-competitive-moats-and-new-entrants"
+          },
+          {
+            "org": "The Ultimate Travel Guide to Costa Rica",
+            "title": "The Ultimate Travel Guide to Costa Rica",
+            "date": "2025-12-12T00:00:00",
+            "url": "https://www.travelandbrew.com/journal/costaricatravelguide",
+            "cited_for": "ia10-competitive-moats-and-new-entrants"
+          },
+          {
+            "org": "Digital Nomads in Costa Rica: The Best Towns for Remote Workers",
+            "title": "Digital Nomads in Costa Rica: The Best Towns for Remote Workers",
+            "date": "2025-11-20T00:00:00",
+            "url": "https://www.coldwellbankercostarica.com/article/digital-nomads-in-costa-rica-the-best-towns-for-remote-workers",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "Understanding Costa Rica Maritime Zone Law, Beachfront",
+            "title": "Understanding Costa Rica Maritime Zone Law, Beachfront",
+            "date": "2025-11-15T00:00:00",
+            "url": "https://www.exclusivehomescostarica.com/posts/navigating-the-waters-understanding-costa-rica-maritime-zone-law-beachfront-property",
+            "cited_for": "disruption-history"
+          },
+          {
+            "org": "Sonesta Jacó: The Unfinished Project That Defies Costa Rican Time",
+            "title": "Sonesta Jacó: The Unfinished Project That Defies Costa Rican Time",
+            "date": "2025-11-07T00:00:00",
+            "url": "https://thecostaricanews.com/sonesta-jaco-the-unfinished-project-that-defies-costa-rican-time/",
+            "cited_for": "disruption-history"
+          },
+          {
+            "org": "Guanacaste, Costa Rica: Regional Snapshot",
+            "title": "Guanacaste, Costa Rica: Regional Snapshot",
+            "date": "2025-10-30T00:00:00",
+            "url": "https://www.twoweeksincostarica.com/guanacaste-regional-snapshot/",
+            "cited_for": "counter-evidence"
+          },
+          {
+            "org": "Our Travel Agency - Two Weeks in Costa Rica",
+            "title": "Our Travel Agency - Two Weeks in Costa Rica",
+            "date": "2025-10-02T00:00:00",
+            "url": "https://www.twoweeksincostarica.com/our-travel-agency/",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "H2 2025 Global Hotel Outlook | CBRE",
+            "title": "H2 2025 Global Hotel Outlook | CBRE",
+            "date": "2025-10-02T00:00:00",
+            "url": "https://www.cbre.com/insights/reports/h2-2025-global-hotel-outlook",
+            "cited_for": "ia9-capital-structures-and-exit"
+          },
+          {
+            "org": "Costa Rica hotel performance update | STR",
+            "title": "Costa Rica hotel performance update | STR",
+            "date": "2025-09-18T00:00:00",
+            "url": "https://www.costar.com/products/str-benchmark/resources/data-insights-blog/costa-rica-hotel-performance-update",
+            "cited_for": "ia4-ia7-tier-structure-and-economics"
+          },
+          {
+            "org": "Costa Rica Real Estate Financing: US Mortgages with Ben Pack",
+            "title": "Costa Rica Real Estate Financing: US Mortgages with Ben Pack",
+            "date": "2025-08-19T00:00:00",
+            "url": "https://www.investingcostarica.com/podcast/us-style-loans-being-offered-in-costa-rica-with-volo-loans/",
+            "cited_for": "ia4-ia7-tier-structure-and-economics"
+          },
+          {
+            "org": "200hr Therapeutic Yoga Teacher Training Costa Rica",
+            "title": "200hr Therapeutic Yoga Teacher Training Costa Rica",
+            "date": "2025-05-31T00:00:00",
+            "url": "https://somayogainstitute.com/200-costarica",
+            "cited_for": "ia10-competitive-moats-and-new-entrants"
+          },
+          {
+            "org": "Hannah McManus - HVS",
+            "title": "Hannah McManus - HVS",
+            "date": "2025-05-23T00:00:00",
+            "url": "https://www.hvs.com/personnel/1995-Hannah-McManus",
+            "cited_for": "ia9-capital-structures-and-exit"
+          },
+          {
+            "org": "Andrew Dickey | Senior Managing Director, Hotels and Hospitality",
+            "title": "Andrew Dickey | Senior Managing Director, Hotels and Hospitality",
+            "date": "2025-05-16T00:00:00",
+            "url": "https://www.jll.com/en-us/people/bio-broker/andrew.dickey",
+            "cited_for": "ia4-ia7-tier-structure-and-economics"
+          },
+          {
+            "org": "Costa Rica Tourism Trends & Investment Analysis with James Neale",
+            "title": "Costa Rica Tourism Trends & Investment Analysis with James Neale",
+            "date": "2025-05-13T00:00:00",
+            "url": "https://www.investingcostarica.com/podcast/costa-rica-by-the-data-trends-truths-and-takeaways/",
+            "cited_for": "counter-evidence"
+          },
+          {
+            "org": "(unattributed)",
+            "title": "",
+            "date": "undated",
+            "url": "https://globalwellnessinstitute.org/wp-content/uploads/2024/11/GWI_WellnessTourism2024_Global.pdf",
+            "cited_for": "ia8-ia5-demand-structure-and-tulum-migration"
+          }
+        ]
+      },
+      {
+        "name": "Trade Press — Hospitality",
+        "items": [
+          {
+            "org": "AI for Hospitality: Reclaim High-Value Work - Infor",
+            "title": "AI for Hospitality: Reclaim High-Value Work - Infor",
+            "date": "2026-04-29T17:47:05",
+            "url": "https://www.infor.com/en-au/blog/hospitality-ai-task-decomposition",
+            "cited_for": "ia9-capital-structures-and-exit"
+          },
+          {
+            "org": "GreenTree Hospitality Group Ltd. Reports Fourth Quarter and Fiscal ...",
+            "title": "GreenTree Hospitality Group Ltd. Reports Fourth Quarter and Fiscal ...",
+            "date": "2026-04-29T17:39:11",
+            "url": "https://www.prnewswire.com/news-releases/greentree-hospitality-group-ltd-reports-fourth-quarter-and-fiscal-year-2025-financial-results-302757311.html",
+            "cited_for": "disruption-history"
+          },
+          {
+            "org": "Costa Rica tourism 2026: why self-drive is outpacing organized tours",
+            "title": "Costa Rica tourism 2026: why self-drive is outpacing organized tours",
+            "date": "2026-04-27T17:37:57",
+            "url": "https://www.breakingtravelnews.com/news/article/costa-rica-tourism-2026-why-self-drive-is-outpacing-organized-tours/",
+            "cited_for": "commercial-dynamics"
+          },
+          {
+            "org": "SiteMinder unveils AI hotel distribution infrastructure",
+            "title": "SiteMinder unveils AI hotel distribution infrastructure",
+            "date": "2026-04-15T00:00:00",
+            "url": "https://www.hotelmanagement-network.com/news/siteminder-ai-hotel-distribution/",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "GMH Hotels: Are Hotels Losing the Booking Battle to AI? - Skift",
+            "title": "GMH Hotels: Are Hotels Losing the Booking Battle to AI? - Skift",
+            "date": "2026-04-15T00:00:00",
+            "url": "https://skift.com/2026/04/15/gmh-hotels-are-hotels-losing-the-booking-battle-to-ai/",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "Reduce OTA Dependence: Save 15-25% on Hotel Commissions",
+            "title": "Reduce OTA Dependence: Save 15-25% on Hotel Commissions",
+            "date": "2026-03-31T00:00:00",
+            "url": "https://www.teacode.io/blog/reducing-ota-dependence-in-hospitality",
+            "cited_for": "commercial-dynamics"
+          },
+          {
+            "org": "Morocco - 6th Edition Hospitality Innovation Summit",
+            "title": "Morocco - 6th Edition Hospitality Innovation Summit",
+            "date": "2026-03-16T00:00:00",
+            "url": "https://hospitalityinnovationsummit.com/morocco/",
+            "cited_for": "ia9-capital-structures-and-exit"
+          },
+          {
+            "org": "Mews reinforces position as hospitality's operating system",
+            "title": "Mews reinforces position as hospitality's operating system",
+            "date": "2026-02-23T00:00:00",
+            "url": "https://www.prnewswire.com/news-releases/mews-reinforces-position-as-hospitalitys-operating-system-302694559.html",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "Amano Group adopts Mews platform across entire hotel portfolio",
+            "title": "Amano Group adopts Mews platform across entire hotel portfolio",
+            "date": "2026-02-04T00:00:00",
+            "url": "https://www.hotelmanagement-network.com/news/amano-group-adopts-mews/",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "Kasa takes over Mint House properties to expand accommodation ...",
+            "title": "Kasa takes over Mint House properties to expand accommodation ...",
+            "date": "2026-01-14T00:00:00",
+            "url": "https://www.phocuswire.com/kasa-mint-house-combine-hotel-apartment-platforms",
+            "cited_for": "disruption-history"
+          },
+          {
+            "org": "Hospitality Property Management Software (PMS) Market Size, Growth",
+            "title": "Hospitality Property Management Software (PMS) Market Size, Growth",
+            "date": "2026-01-13T00:00:00",
+            "url": "https://www.marketgrowthreports.com/market-reports/hospitality-property-management-software-pms-market-114325",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "The Backdoor Conquest: How Expedia is Breaking Booking.com's ...",
+            "title": "The Backdoor Conquest: How Expedia is Breaking Booking.com's ...",
+            "date": "2026-01-12T00:00:00",
+            "url": "http://whiteskyhospitality.com/the-backdoor-conquest-how-expedia-is-breaking-booking-coms-european-monopoly/",
+            "cited_for": "commercial-dynamics"
+          },
+          {
+            "org": "Sustainable Hotel and Resort Development in the Caribbean",
+            "title": "Sustainable Hotel and Resort Development in the Caribbean",
+            "date": "2026-01-07T00:00:00",
+            "url": "https://tourismanalytics.com/expertinsights/sustainable-hotel-and-resort-development-in-the-caribbean-strategies-for-a-resilient-hospitality-future",
+            "cited_for": "ia9-capital-structures-and-exit"
+          },
+          {
+            "org": "The Hotel Owner's Playbook: Navigating Franchise Agreements in a ...",
+            "title": "The Hotel Owner's Playbook: Navigating Franchise Agreements in a ...",
+            "date": "2026-01-05T00:00:00",
+            "url": "https://whiteskyhospitality.com/the-hotel-owners-playbook-navigating-franchise-agreements-in-a-consolidating-market/",
+            "cited_for": "commercial-dynamics"
+          },
+          {
+            "org": "Hotel PMS Market - Property Management Software - Share ...",
+            "title": "Hotel PMS Market - Property Management Software - Share ...",
+            "date": "2026-01-05T00:00:00",
+            "url": "https://www.mordorintelligence.com/industry-reports/hospitality-property-management-software-market",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "Why 2026 Is the Breakthrough Year for Cloud PMS Adoption in ...",
+            "title": "Why 2026 Is the Breakthrough Year for Cloud PMS Adoption in ...",
+            "date": "2025-12-10T00:00:00",
+            "url": "https://www.mycloudhospitality.com/blog/why-2026-is-the-breakthrough-year-for-cloud-pms-adoption-in-hospitality",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "The Ancillary Revenue Revolution: How IHG and Accor are ...",
+            "title": "The Ancillary Revenue Revolution: How IHG and Accor are ...",
+            "date": "2025-12-08T00:00:00",
+            "url": "https://whiteskyhospitality.com/the-ancillary-revenue-revolution-how-ihg-and-accor-are-rewriting-hotel-economics/",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "The Future of Hotel Loyalty: Personalization, Direct Booking, and the ...",
+            "title": "The Future of Hotel Loyalty: Personalization, Direct Booking, and the ...",
+            "date": "2025-11-20T00:00:00",
+            "url": "https://research.skift.com/reports/the-future-of-hotel-loyalty-personalization-direct-booking-and-the-rise-of-experience-led-travel/",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "Agentic AI for Hotels: Mews outlines the future of intelligent hospitality",
+            "title": "Agentic AI for Hotels: Mews outlines the future of intelligent hospitality",
+            "date": "2025-11-13T00:00:00",
+            "url": "https://www.prnewswire.com/news-releases/agentic-ai-for-hotels-mews-outlines-the-future-of-intelligent-hospitality-302613719.html",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "Where are they now? Revisiting the Hot 25 Travel Startups for 2025",
+            "title": "Where are they now? Revisiting the Hot 25 Travel Startups for 2025",
+            "date": "2025-11-03T00:00:00",
+            "url": "https://www.phocuswire.com/hot-25-travel-startups-2025-revisit",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "CBRE lowers 2025 RevPAR growth to 0.1% - Hotel Management",
+            "title": "CBRE lowers 2025 RevPAR growth to 0.1% - Hotel Management",
+            "date": "2025-10-08T00:00:00",
+            "url": "https://www.hotelmanagement.net/data-trends/cbre-lowers-2025-revpar-growth-01",
+            "cited_for": "ia9-capital-structures-and-exit"
+          },
+          {
+            "org": "Generation Next: The Risk Takers - Skift",
+            "title": "Generation Next: The Risk Takers - Skift",
+            "date": "2025-09-04T00:00:00",
+            "url": "https://skift.com/2025/09/04/generation-next-the-risk-takers/",
+            "cited_for": "ia8-ia5-demand-structure-and-tulum-migration"
+          },
+          {
+            "org": "Hospitality bifurcates as luxury outpaces lower tiers - RSM US",
+            "title": "Hospitality bifurcates as luxury outpaces lower tiers - RSM US",
+            "date": "2025-08-28T00:00:00",
+            "url": "https://rsmus.com/insights/industries/real-estate/hospitality-bifurcates-as-luxury-outpaces-lower-tiers.html",
+            "cited_for": "ia4-ia7-tier-structure-and-economics"
+          },
+          {
+            "org": "Booking.com and hotels increasingly go their separate ways",
+            "title": "Booking.com and hotels increasingly go their separate ways",
+            "date": "2025-08-27T00:00:00",
+            "url": "https://www.phocuswire.com/hotels-booking-increasingly-go-separate-ways",
+            "cited_for": "commercial-dynamics"
+          },
+          {
+            "org": "Every One of Hyatt's Brands, Explained (2025) - Skift",
+            "title": "Every One of Hyatt's Brands, Explained (2025) - Skift",
+            "date": "2025-06-22T00:00:00",
+            "url": "https://skift.com/2025/06/22/hyatts-brands-explained/",
+            "cited_for": "ia8-ia5-demand-structure-and-tulum-migration"
+          },
+          {
+            "org": "Transforming hospitality: How SaaS platforms are ushering in a new ...",
+            "title": "Transforming hospitality: How SaaS platforms are ushering in a new ...",
+            "date": "2025-05-06T00:00:00",
+            "url": "https://stripe.com/sessions/2025/transforming-hospitality",
+            "cited_for": "technology-systems"
+          }
+        ]
+      },
+      {
+        "name": "Hospitality Technology / Platforms",
+        "items": [
+          {
+            "org": "Cloudbeds Partners with Dingus to Unify Hotel Distribution",
+            "title": "Cloudbeds Partners with Dingus to Unify Hotel Distribution",
+            "date": "2026-04-29T17:38:12",
+            "url": "https://www.cloudbeds.com/articles/dingus/",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "Booking.com data breach: what you need to know - Which?",
+            "title": "Booking.com data breach: what you need to know - Which?",
+            "date": "2026-04-14T00:00:00",
+            "url": "https://www.which.co.uk/news/article/booking.com-data-breach-what-you-need-to-know-a55ev0f8wyAW",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "Reservations by Country Report - Cloudbeds",
+            "title": "Reservations by Country Report - Cloudbeds",
+            "date": "2026-04-13T00:00:00",
+            "url": "https://myfrontdesk.cloudbeds.com/hc/en-us/articles/360001993493-Reservations-by-Country-Report",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "The Top 7 Cloudbeds Alternatives to Know in 2026 - eviivo",
+            "title": "The Top 7 Cloudbeds Alternatives to Know in 2026 - eviivo",
+            "date": "2026-03-12T00:00:00",
+            "url": "https://eviivo.com/trade-secrets/best-cloudbeds-alternatives/",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "Cloudbeds vs. Mews - Meet the smarter Mews alternative",
+            "title": "Cloudbeds vs. Mews - Meet the smarter Mews alternative",
+            "date": "2026-03-02T00:00:00",
+            "url": "https://www.cloudbeds.com/compare/mews/",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "Cloudbeds Payments terminals overview",
+            "title": "Cloudbeds Payments terminals overview",
+            "date": "2026-02-02T00:00:00",
+            "url": "https://myfrontdesk.cloudbeds.com/hc/en-us/articles/1260803682969-Cloudbeds-Payments-terminals-overview",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "Cloudbeds unveils inaugural Cloudbeds Collection",
+            "title": "Cloudbeds unveils inaugural Cloudbeds Collection",
+            "date": "2026-01-29T00:00:00",
+            "url": "https://www.cloudbeds.com/articles/collection-launch/",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "PayU Latam - Connection Guide - Cloudbeds",
+            "title": "PayU Latam - Connection Guide - Cloudbeds",
+            "date": "2026-01-08T00:00:00",
+            "url": "https://myfrontdesk.cloudbeds.com/hc/en-us/articles/115004980568-PayU-Latam-Connection-Guide",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "Critical: Missing VAT/SII Reporting for MEWS POS \"Outlet\" Sales",
+            "title": "Critical: Missing VAT/SII Reporting for MEWS POS \"Outlet\" Sales",
+            "date": "2025-12-15T00:00:00",
+            "url": "https://community.mews.com/mews-pos-restaurant-operations-90/critical-missing-vat-sii-reporting-for-mews-pos-outlet-sales-2920",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "#1 Top-Rated Hotel Property Management System 2026 - Cloudbeds",
+            "title": "#1 Top-Rated Hotel Property Management System 2026 - Cloudbeds",
+            "date": "2025-11-04T00:00:00",
+            "url": "https://www.cloudbeds.com/property-management-system/",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "Apply for Cloudbeds Payments account - countries requirements",
+            "title": "Apply for Cloudbeds Payments account - countries requirements",
+            "date": "2025-10-23T00:00:00",
+            "url": "https://myfrontdesk.cloudbeds.com/hc/en-us/articles/18785525247899-Apply-for-Cloudbeds-Payments-account-countries-requirements",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "Cloudbeds Billing Portal - Payment Options for Your Account",
+            "title": "Cloudbeds Billing Portal - Payment Options for Your Account",
+            "date": "2025-10-22T00:00:00",
+            "url": "https://myfrontdesk.cloudbeds.com/hc/en-us/articles/218406958-Cloudbeds-Billing-Portal-Payment-Options-for-Your-Account",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "SiteMinder: We put you in demand.",
+            "title": "SiteMinder: We put you in demand.",
+            "date": "2025-09-15T00:00:00",
+            "url": "https://www.siteminder.com",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "How much does Airbnb charge hosts? - Resource Center",
+            "title": "How much does Airbnb charge hosts? - Resource Center",
+            "date": "2025-08-25T00:00:00",
+            "url": "https://www.airbnb.com/resources/hosting-homes/a/how-much-does-airbnb-charge-hosts-288",
+            "cited_for": "commercial-dynamics"
+          },
+          {
+            "org": "SiteMinder opens new office in Mexico",
+            "title": "SiteMinder opens new office in Mexico",
+            "date": "2025-08-12T00:00:00",
+            "url": "https://www.siteminder.com/news/siteminder-opens-new-office-in-mexico/",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "Soy Local Hotels - Customer Success - SiteMinder",
+            "title": "Soy Local Hotels - Customer Success - SiteMinder",
+            "date": "2025-08-11T00:00:00",
+            "url": "https://www.siteminder.com/case-studies/soy-local-hotels/",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "Tella Thera- Cloudbeds Customer Stories",
+            "title": "Tella Thera- Cloudbeds Customer Stories",
+            "date": "2025-07-15T00:00:00",
+            "url": "https://www.cloudbeds.com/customers/tella-thera/",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "Speak with sales - Mews",
+            "title": "Speak with sales - Mews",
+            "date": "2025-07-15T00:00:00",
+            "url": "https://www.mews.com/en/speak-with-sales",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "Scam alert: why you can't trust that 'Booking.com' message",
+            "title": "Scam alert: why you can't trust that 'Booking.com' message",
+            "date": "2025-07-09T00:00:00",
+            "url": "https://www.which.co.uk/news/article/why-you-cant-trust-that-booking.com-message-aNQwx7T2ltWs",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "Payment Processing FAQ - Cloudbeds",
+            "title": "Payment Processing FAQ - Cloudbeds",
+            "date": "2025-07-03T00:00:00",
+            "url": "https://myfrontdesk.cloudbeds.com/hc/en-us/articles/219139688-Payment-Processing-FAQ",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "Tarifas y comisiones de Booking.com: guía completa para anfitriones",
+            "title": "Tarifas y comisiones de Booking.com: guía completa para anfitriones",
+            "date": "2025-06-30T00:00:00",
+            "url": "https://www.siteminder.com/es/r/tarifas-de-booking/",
+            "cited_for": "commercial-dynamics"
+          },
+          {
+            "org": "Onefam Paralelo | One of the Most Recommended Hostels in AI",
+            "title": "Onefam Paralelo | One of the Most Recommended Hostels in AI",
+            "date": "2025-06-26T00:00:00",
+            "url": "https://www.cloudbeds.com/hotel-ai-recommendations/case-study/",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "Socialtel La Fortuna Reviews, Deals & Photos 2026 - Expedia.co.uk",
+            "title": "Socialtel La Fortuna Reviews, Deals & Photos 2026 - Expedia.co.uk",
+            "date": "2025-05-21T00:00:00",
+            "url": "https://www.expedia.co.uk/La-Fortuna-Hotels-Selina-La-Fortuna.h19237432.Hotel-Information",
+            "cited_for": "disruption-history"
+          },
+          {
+            "org": "External Payments - Mews Community",
+            "title": "External Payments - Mews Community",
+            "date": "2025-05-16T00:00:00",
+            "url": "https://community.mews.com/mews-payments-84/external-payments-2120",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "SiteMinder - App Store - Apple",
+            "title": "SiteMinder - App Store - Apple",
+            "date": "2025-04-11T00:00:00",
+            "url": "https://apps.apple.com/us/app/siteminder/id1665474460",
+            "cited_for": "technology-systems"
+          }
+        ]
+      },
+      {
+        "name": "Academic Research",
+        "items": [
+          {
+            "org": "[PDF] Academic Affairs Meeting Book - FSU Board of Trustees",
+            "title": "[PDF] Academic Affairs Meeting Book - FSU Board of Trustees",
+            "date": "2026-02-24T00:00:00",
+            "url": "https://trustees.fsu.edu/sites/default/files/meetings/20260225/Academic-Affairs-Meeting-Book-Web-2026-02-24.pdf",
+            "cited_for": "counter-evidence, disruption-history"
+          },
+          {
+            "org": "[PDF] Yield of the Years - School of Arts & Sciences - University of Rochester",
+            "title": "[PDF] Yield of the Years - School of Arts & Sciences - University of Rochester",
+            "date": "2025-11-15T00:00:00",
+            "url": "https://www.sas.rochester.edu/his/sites/campus-history/History/1969Perkins.pdf",
+            "cited_for": "commercial-dynamics"
+          },
+          {
+            "org": "Signaling Theory, Strategic Interaction, and Symbolic Capital1",
+            "title": "Signaling Theory, Strategic Interaction, and Symbolic Capital1",
+            "date": "2025-09-25T00:00:00",
+            "url": "https://www.journals.uchicago.edu/doi/abs/10.1086/427115",
+            "cited_for": "disruption-history"
+          },
+          {
+            "org": "[PDF] The Supreme Court Narrows the Act of State Doctrine",
+            "title": "[PDF] The Supreme Court Narrows the Act of State Doctrine",
+            "date": "2025-08-08T00:00:00",
+            "url": "https://scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=2061&context=vjtl",
+            "cited_for": "regulatory-landscape"
+          },
+          {
+            "org": "Princeton welcomes the Class of 2029, which includes the largest ...",
+            "title": "Princeton welcomes the Class of 2029, which includes the largest ...",
+            "date": "2025-08-07T00:00:00",
+            "url": "https://www.princeton.edu/news/2025/08/07/princeton-enhances-financial-aid-again-it-welcomes-class-2029-which-includes",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "[PDF] CHRONICLE OF DIGITAL TRANSFORMATION THROUGH ...",
+            "title": "[PDF] CHRONICLE OF DIGITAL TRANSFORMATION THROUGH ...",
+            "date": "2025-07-21T00:00:00",
+            "url": "https://cdait.gatech.edu/sites/default/files/2025-07/Digital_Transformation_Through_IoT_Technologies_as-of-mid-July-2025.pdf",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "[PDF] Alumni @ Large - Digital Commons @ Colby",
+            "title": "[PDF] Alumni @ Large - Digital Commons @ Colby",
+            "date": "2025-06-15T00:00:00",
+            "url": "https://digitalcommons.colby.edu/cgi/viewcontent.cgi?article=1462&context=colbymagazine",
+            "cited_for": "commercial-dynamics"
+          },
+          {
+            "org": "[XML] https://snap.berkeley.edu/project/14165954",
+            "title": "[XML] https://snap.berkeley.edu/project/14165954",
+            "date": "2025-05-03T00:00:00",
+            "url": "https://snap.berkeley.edu/project/14165954",
+            "cited_for": "ia10-competitive-moats-and-new-entrants"
+          }
+        ]
+      },
+      {
+        "name": "CR Trade Associations",
+        "items": [
+          {
+            "org": "Search for organizations active in Border Management, Disaster ...",
+            "title": "Search for organizations active in Border Management, Disaster ...",
+            "date": "2026-04-19T00:00:00",
+            "url": "https://www.developmentaid.org/organizations/search?showAdvancedFilters=1&sortColumn=id.asc&organizationTypesV2=25&sectors=42%2C95%2C11%2C31&sectorsIsStrict=1",
+            "cited_for": "ia9-capital-structures-and-exit"
+          },
+          {
+            "org": "Categorías y requisitos de afiliación - Canatur",
+            "title": "Categorías y requisitos de afiliación - Canatur",
+            "date": "2026-03-04T00:00:00",
+            "url": "https://www.canatur.org/articulo/81/categorias-y-requisitos-de-afiliacion",
+            "cited_for": "regulatory-landscape"
+          },
+          {
+            "org": "Spotlight: How the Central American ICT market is evolving",
+            "title": "Spotlight: How the Central American ICT market is evolving",
+            "date": "2025-06-27T00:00:00",
+            "url": "https://www.bnamericas.com/en/features/spotlight-how-the-central-american-ict-market-is-evolving",
+            "cited_for": "technology-systems"
+          },
+          {
+            "org": "Testimony: No Justification for Renewing Costa Rican Import ...",
+            "title": "Testimony: No Justification for Renewing Costa Rican Import ...",
+            "date": "2025-05-20T00:00:00",
+            "url": "https://culturalpropertynews.org/testimony-no-justification-for-renewing-costa-rican-import-restrictions/",
+            "cited_for": "commercial-dynamics"
+          }
+        ]
+      }
+    ],
+    "note": "443 unique sources captured across two research rounds. 99% from 2024 or later. The full source set is in the venture project's research/foundation/round-*/*.json files."
+  },
+  "evidence_popups": {},
+  "footer": {
+    "text": "Bhava — Foundation v1.0.0 — April 2026 — Venture Forge"
+  }
+}

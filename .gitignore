@@ -1,0 +1,23 @@
+# Bhava — internal-only artifacts excluded from the public repo.
+# Only docs/ (presentations) is meant to be public.
+
+# Internal venture state and analysis
+venture.yaml
+gate-decisions/
+workspace/
+research/
+inputs/
+evidence/
+materials/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+__pycache__/
+*.pyc
+
+# Temporary
+*.tmp
+*.log

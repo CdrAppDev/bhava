@@ -1,0 +1,143 @@
+{
+  "schema_version": "1.0",
+  "project_name": "Bhava",
+  "tagline": "Boutique wellness micro-resort development in Costa Rica",
+  "description": "Design-led, feminine-aesthetic, wellness-integrated hospitality at the 5–12 villa scale.",
+  "generated": "2026-04-30",
+  "pipeline": [
+    {
+      "id": "foundation",
+      "name": "Foundation",
+      "status": "complete",
+      "gate_decision": "proceed"
+    },
+    {
+      "id": "problem",
+      "name": "Problem",
+      "status": "gate-review",
+      "gate_decision": null
+    },
+    {
+      "id": "jobs",
+      "name": "Jobs",
+      "status": "pending",
+      "gate_decision": null
+    },
+    {
+      "id": "market",
+      "name": "Market",
+      "status": "pending",
+      "gate_decision": null
+    },
+    {
+      "id": "solution",
+      "name": "Solution",
+      "status": "pending",
+      "gate_decision": null
+    },
+    {
+      "id": "business",
+      "name": "Business",
+      "status": "pending",
+      "gate_decision": null
+    }
+  ],
+  "workspace_cards": [
+    {
+      "id": "foundation",
+      "name": "Foundation",
+      "gate_question": "Do we understand the structural forces, constraints, and dynamics of this industry well enough to identify real problems within it?",
+      "status": "complete",
+      "summary": "Costa Rica's boutique wellness hospitality has structural friction (cantonal fragmentation, capital scale gap, information asymmetry, commoditization risk for non-moated entrants, climate gating) and clear status-quo defenders (ICT growth ceiling, mid-60% national occupancy).",
+      "metrics": [
+        {
+          "value": "10",
+          "label": "Structural Forces",
+          "color": "accent"
+        },
+        {
+          "value": "5",
+          "label": "Root Causes",
+          "color": "accent"
+        },
+        {
+          "value": "464",
+          "label": "Citations",
+          "color": "accent"
+        },
+        {
+          "value": "7/7",
+          "label": "Checks Pass",
+          "color": "green"
+        }
+      ],
+      "page": "foundation.html"
+    },
+    {
+      "id": "problem",
+      "name": "Problem",
+      "gate_question": "Do we understand the problem and its causal mechanisms?",
+      "status": "gate-review",
+      "summary": "First-time long-haul wellness travelers to Costa Rica systematically fail to develop property-level repeat-visit relationships because the structural pre-booking information environment cannot align Pura Vida promise with on-the-ground delivery — producing predictable expectation-reality gaps that drive one-and-done outcomes.",
+      "metrics": [
+        {
+          "value": "3",
+          "label": "Root Causes",
+          "color": "accent"
+        },
+        {
+          "value": "4",
+          "label": "Causal Chains",
+          "color": "accent"
+        },
+        {
+          "value": "640",
+          "label": "Citations",
+          "color": "accent"
+        },
+        {
+          "value": "8/8",
+          "label": "Checks Pass",
+          "color": "green"
+        }
+      ],
+      "page": "problem.html"
+    }
+  ],
+  "nav_links": [
+    {
+      "label": "Foundation",
+      "href": "foundation.html",
+      "disabled": false
+    },
+    {
+      "label": "Problem",
+      "href": "problem.html",
+      "disabled": false
+    },
+    {
+      "label": "Jobs",
+      "href": "jobs.html",
+      "disabled": true
+    },
+    {
+      "label": "Market",
+      "href": "market.html",
+      "disabled": true
+    },
+    {
+      "label": "Solution",
+      "href": "solution.html",
+      "disabled": true
+    },
+    {
+      "label": "Business",
+      "href": "business.html",
+      "disabled": true
+    }
+  ],
+  "extra_pages": [],
+  "footer": {
+    "text": "Bhava — April 2026 — Venture Forge"
+  }
+}
